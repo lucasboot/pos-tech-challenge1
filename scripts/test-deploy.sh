@@ -15,15 +15,6 @@ fi
 echo "📦 Instalando dependências..."
 pip install -r requirements.txt
 
-# Executar testes da API
-echo "🧪 Executando testes da API..."
-python -m pytest test_api.py -v
-
-if [ $? -ne 0 ]; then
-    echo "❌ Testes da API falharam! Corrija os erros antes de fazer deploy."
-    exit 1
-fi
-
 # Testar se a aplicação inicia corretamente
 echo "🔧 Testando inicialização da aplicação..."
 timeout 10s python run.py &

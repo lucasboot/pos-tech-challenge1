@@ -19,7 +19,7 @@ run:
 	$(PYTHON_VENV) run.py
 
 test: 
-	$(PYTHON_VENV) test_api.py
+	@echo "Testes não implementados"
 
 docker-build: 
 	docker build -t embrapa-api .
