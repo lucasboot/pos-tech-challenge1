@@ -1,0 +1,6606 @@
+{
+  "data": [
+    {
+      "ano": 1970,
+      "produto": "VINHO DE MESA",
+      "quantidade": 217208604,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "VINHO DE MESA",
+      "quantidade": 154264651,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "VINHO DE MESA",
+      "quantidade": 146953297,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "VINHO DE MESA",
+      "quantidade": 116710345,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "VINHO DE MESA",
+      "quantidade": 193875345,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "VINHO DE MESA",
+      "quantidade": 177401209,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "VINHO DE MESA",
+      "quantidade": 144565438,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "VINHO DE MESA",
+      "quantidade": 195359778,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "VINHO DE MESA",
+      "quantidade": 200053669,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "VINHO DE MESA",
+      "quantidade": 211252982,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "VINHO DE MESA",
+      "quantidade": 130308185,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "VINHO DE MESA",
+      "quantidade": 186129728,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "VINHO DE MESA",
+      "quantidade": 234754564,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "VINHO DE MESA",
+      "quantidade": 120261544,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "VINHO DE MESA",
+      "quantidade": 177680331,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "VINHO DE MESA",
+      "quantidade": 275338955,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "VINHO DE MESA",
+      "quantidade": 157711522,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "VINHO DE MESA",
+      "quantidade": 150467184,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "VINHO DE MESA",
+      "quantidade": 244791058,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "VINHO DE MESA",
+      "quantidade": 181801961,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "VINHO DE MESA",
+      "quantidade": 210548199,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "VINHO DE MESA",
+      "quantidade": 126768254,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "VINHO DE MESA",
+      "quantidade": 163248419,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "VINHO DE MESA",
+      "quantidade": 171754995,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "VINHO DE MESA",
+      "quantidade": 202073263,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "VINHO DE MESA",
+      "quantidade": 214788304,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "VINHO DE MESA",
+      "quantidade": 152917771,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "VINHO DE MESA",
+      "quantidade": 182816047,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "VINHO DE MESA",
+      "quantidade": 150814943,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "VINHO DE MESA",
+      "quantidade": 226520776,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "VINHO DE MESA",
+      "quantidade": 273025576,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "VINHO DE MESA",
+      "quantidade": 228932458,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "VINHO DE MESA",
+      "quantidade": 259589740,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "VINHO DE MESA",
+      "quantidade": 202545724,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "VINHO DE MESA",
+      "quantidade": 313962284,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "VINHO DE MESA",
+      "quantidade": 226080432,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "VINHO DE MESA",
+      "quantidade": 185100887,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "VINHO DE MESA",
+      "quantidade": 275287908,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "VINHO DE MESA",
+      "quantidade": 287506811,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "VINHO DE MESA",
+      "quantidade": 205418206,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "VINHO DE MESA",
+      "quantidade": 195267980,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "VINHO DE MESA",
+      "quantidade": 257840749,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "VINHO DE MESA",
+      "quantidade": 212777037,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "VINHO DE MESA",
+      "quantidade": 196904222,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "VINHO DE MESA",
+      "quantidade": 196173123,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "VINHO DE MESA",
+      "quantidade": 210308560,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "VINHO DE MESA",
+      "quantidade": 86319015,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "VINHO DE MESA",
+      "quantidade": 255015187,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "VINHO DE MESA",
+      "quantidade": 218375636,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "VINHO DE MESA",
+      "quantidade": 144629737,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "VINHO DE MESA",
+      "quantidade": 124200414,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "VINHO DE MESA",
+      "quantidade": 173899995,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "VINHO DE MESA",
+      "quantidade": 195031611,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "VINHO DE MESA",
+      "quantidade": 169762429,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Tinto",
+      "quantidade": 174224052,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Tinto",
+      "quantidade": 121133369,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Tinto",
+      "quantidade": 118180926,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Tinto",
+      "quantidade": 88589019,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Tinto",
+      "quantidade": 146544484,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Tinto",
+      "quantidade": 144274134,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Tinto",
+      "quantidade": 118360170,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Tinto",
+      "quantidade": 154801826,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Tinto",
+      "quantidade": 162917363,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Tinto",
+      "quantidade": 154736439,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Tinto",
+      "quantidade": 101659755,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Tinto",
+      "quantidade": 134156175,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Tinto",
+      "quantidade": 183349460,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Tinto",
+      "quantidade": 87080528,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Tinto",
+      "quantidade": 119615028,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Tinto",
+      "quantidade": 216732390,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Tinto",
+      "quantidade": 118766694,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Tinto",
+      "quantidade": 97841160,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Tinto",
+      "quantidade": 173747942,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Tinto",
+      "quantidade": 136931173,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Tinto",
+      "quantidade": 154359897,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Tinto",
+      "quantidade": 90320836,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Tinto",
+      "quantidade": 118638894,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Tinto",
+      "quantidade": 125172218,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Tinto",
+      "quantidade": 161479717,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Tinto",
+      "quantidade": 167174017,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Tinto",
+      "quantidade": 115896909,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Tinto",
+      "quantidade": 116458841,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Tinto",
+      "quantidade": 102127865,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Tinto",
+      "quantidade": 168149414,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Tinto",
+      "quantidade": 208242670,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Tinto",
+      "quantidade": 175267437,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Tinto",
+      "quantidade": 215892333,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Tinto",
+      "quantidade": 155513687,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Tinto",
+      "quantidade": 254172425,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Tinto",
+      "quantidade": 180698666,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Tinto",
+      "quantidade": 149552555,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Tinto",
+      "quantidade": 228156220,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Tinto",
+      "quantidade": 241057928,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Tinto",
+      "quantidade": 164143454,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Tinto",
+      "quantidade": 157290088,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Tinto",
+      "quantidade": 210113358,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Tinto",
+      "quantidade": 175875432,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Tinto",
+      "quantidade": 163111797,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Tinto",
+      "quantidade": 157776363,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Tinto",
+      "quantidade": 169811472,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Tinto",
+      "quantidade": 75279191,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Tinto",
+      "quantidade": 1365957,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Tinto",
+      "quantidade": 188270142,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Tinto",
+      "quantidade": 121045115,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Tinto",
+      "quantidade": 103916391,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Tinto",
+      "quantidade": 146075996,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Tinto",
+      "quantidade": 162844214,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Tinto",
+      "quantidade": 139320884,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Branco",
+      "quantidade": 748400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Branco",
+      "quantidade": 1160500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Branco",
+      "quantidade": 1812367,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Branco",
+      "quantidade": 243900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Branco",
+      "quantidade": 4138768,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Branco",
+      "quantidade": 1441507,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Branco",
+      "quantidade": 1871473,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Branco",
+      "quantidade": 4954387,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Branco",
+      "quantidade": 5079748,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Branco",
+      "quantidade": 7146395,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Branco",
+      "quantidade": 5363452,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Branco",
+      "quantidade": 12547739,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Branco",
+      "quantidade": 15782499,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Branco",
+      "quantidade": 12191896,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Branco",
+      "quantidade": 19502230,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Branco",
+      "quantidade": 23010666,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Branco",
+      "quantidade": 16872183,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Branco",
+      "quantidade": 27497857,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Branco",
+      "quantidade": 32660045,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Branco",
+      "quantidade": 24603265,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Branco",
+      "quantidade": 33512030,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Branco",
+      "quantidade": 25046588,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Branco",
+      "quantidade": 25446255,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Branco",
+      "quantidade": 31986075,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Branco",
+      "quantidade": 28291853,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Branco",
+      "quantidade": 15472732,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Branco",
+      "quantidade": 24073622,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Branco",
+      "quantidade": 41842945,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Branco",
+      "quantidade": 32140249,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Branco",
+      "quantidade": 42528150,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Branco",
+      "quantidade": 44902276,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Branco",
+      "quantidade": 44322836,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Branco",
+      "quantidade": 35329657,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Branco",
+      "quantidade": 40861639,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Branco",
+      "quantidade": 51719967,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Branco",
+      "quantidade": 39212146,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Branco",
+      "quantidade": 31738390,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Branco",
+      "quantidade": 42118552,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Branco",
+      "quantidade": 42942053,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Branco",
+      "quantidade": 39211278,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Branco",
+      "quantidade": 35408083,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Branco",
+      "quantidade": 46007504,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Branco",
+      "quantidade": 34938249,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Branco",
+      "quantidade": 32066403,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Branco",
+      "quantidade": 37438069,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Branco",
+      "quantidade": 39557250,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Branco",
+      "quantidade": 10727099,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Branco",
+      "quantidade": 217527985,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Branco",
+      "quantidade": 29229970,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Branco",
+      "quantidade": 22032828,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Branco",
+      "quantidade": 19568734,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Branco",
+      "quantidade": 26432799,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Branco",
+      "quantidade": 30198430,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Branco",
+      "quantidade": 27910299,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Rosado",
+      "quantidade": 42236152,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Rosado",
+      "quantidade": 31970782,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Rosado",
+      "quantidade": 26960004,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Rosado",
+      "quantidade": 27877426,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Rosado",
+      "quantidade": 43192093,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Rosado",
+      "quantidade": 31685568,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Rosado",
+      "quantidade": 24333795,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Rosado",
+      "quantidade": 35603565,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Rosado",
+      "quantidade": 32056558,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Rosado",
+      "quantidade": 49370148,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Rosado",
+      "quantidade": 23284978,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Rosado",
+      "quantidade": 39425814,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Rosado",
+      "quantidade": 35622605,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Rosado",
+      "quantidade": 20989120,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Rosado",
+      "quantidade": 38563073,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Rosado",
+      "quantidade": 35595899,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Rosado",
+      "quantidade": 22072645,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Rosado",
+      "quantidade": 25128167,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Rosado",
+      "quantidade": 38383071,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Rosado",
+      "quantidade": 20267523,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Rosado",
+      "quantidade": 22676272,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Rosado",
+      "quantidade": 11400830,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Rosado",
+      "quantidade": 19163270,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Rosado",
+      "quantidade": 14596702,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Rosado",
+      "quantidade": 12301693,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Rosado",
+      "quantidade": 32141555,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Rosado",
+      "quantidade": 12947240,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Rosado",
+      "quantidade": 24514261,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Rosado",
+      "quantidade": 16546829,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Rosado",
+      "quantidade": 15843212,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Rosado",
+      "quantidade": 19880630,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Rosado",
+      "quantidade": 9342185,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Rosado",
+      "quantidade": 8367750,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Rosado",
+      "quantidade": 6170398,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Rosado",
+      "quantidade": 8069892,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Rosado",
+      "quantidade": 6169620,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Rosado",
+      "quantidade": 3809942,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Rosado",
+      "quantidade": 5013136,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Rosado",
+      "quantidade": 3506830,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Rosado",
+      "quantidade": 2063474,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Rosado",
+      "quantidade": 2569809,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Rosado",
+      "quantidade": 1719887,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Rosado",
+      "quantidade": 1963356,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Rosado",
+      "quantidade": 1726022,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Rosado",
+      "quantidade": 958691,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Rosado",
+      "quantidade": 939838,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Rosado",
+      "quantidade": 312725,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Rosado",
+      "quantidade": 36121245,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Rosado",
+      "quantidade": 875524,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Rosado",
+      "quantidade": 1551794,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Rosado",
+      "quantidade": 715289,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Rosado",
+      "quantidade": 1391200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Rosado",
+      "quantidade": 1988968,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Rosado",
+      "quantidade": 2531246,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 23899346,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 23586062,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 21078771,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 12368410,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 31644124,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 39424590,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 34500590,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 41264971,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 36750933,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 46129710,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 31740663,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 49348047,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 57453581,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 40616812,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 48289279,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 67035393,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 48559180,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 47301266,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 76560765,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 72772144,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 73689124,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45519167,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 52612778,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 53054225,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 58733741,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 47126229,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45325058,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 46988414,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 33898630,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45830497,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 56209739,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 34159277,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 31655226,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 29551457,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 42902608,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45453898,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 32168977,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 43176484,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 47334501,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 39900568,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 24805713,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 47598471,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45200730,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 45782530,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 38464314,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 37148982,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 18070626,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 44537870,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 38707220,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 37615422,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 32516686,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 43474998,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 47511796,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "VINHO FINO DE MESA (VINIFERA)",
+      "quantidade": 46268556,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Tinto",
+      "quantidade": 7591557,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Tinto",
+      "quantidade": 7265666,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Tinto",
+      "quantidade": 6782837,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Tinto",
+      "quantidade": 3419625,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Tinto",
+      "quantidade": 10047658,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Tinto",
+      "quantidade": 14731106,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Tinto",
+      "quantidade": 12405154,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Tinto",
+      "quantidade": 16131758,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Tinto",
+      "quantidade": 15000671,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Tinto",
+      "quantidade": 14356453,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Tinto",
+      "quantidade": 9296741,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Tinto",
+      "quantidade": 16036963,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Tinto",
+      "quantidade": 19987588,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Tinto",
+      "quantidade": 14340514,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Tinto",
+      "quantidade": 15777602,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Tinto",
+      "quantidade": 19347979,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Tinto",
+      "quantidade": 12282967,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Tinto",
+      "quantidade": 10920073,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Tinto",
+      "quantidade": 18690518,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Tinto",
+      "quantidade": 16140751,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Tinto",
+      "quantidade": 17750504,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Tinto",
+      "quantidade": 12001895,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Tinto",
+      "quantidade": 13449911,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Tinto",
+      "quantidade": 12119485,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Tinto",
+      "quantidade": 15646861,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Tinto",
+      "quantidade": 11924291,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Tinto",
+      "quantidade": 12819866,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Tinto",
+      "quantidade": 12590647,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Tinto",
+      "quantidade": 8716140,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Tinto",
+      "quantidade": 14640657,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Tinto",
+      "quantidade": 18545613,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Tinto",
+      "quantidade": 13587683,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Tinto",
+      "quantidade": 13619033,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Tinto",
+      "quantidade": 15357576,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Tinto",
+      "quantidade": 23062182,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Tinto",
+      "quantidade": 25409805,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Tinto",
+      "quantidade": 18868108,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Tinto",
+      "quantidade": 24786071,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Tinto",
+      "quantidade": 27583032,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Tinto",
+      "quantidade": 18209043,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Tinto",
+      "quantidade": 11401406,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Tinto",
+      "quantidade": 24104740,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Tinto",
+      "quantidade": 24027589,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Tinto",
+      "quantidade": 23156458,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Tinto",
+      "quantidade": 17208996,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Tinto",
+      "quantidade": 16745896,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Tinto",
+      "quantidade": 8774847,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Tinto",
+      "quantidade": 21442212,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Tinto",
+      "quantidade": 19118254,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Tinto",
+      "quantidade": 17389377,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Tinto",
+      "quantidade": 15451883,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Tinto",
+      "quantidade": 20433249,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Tinto",
+      "quantidade": 24417918,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Tinto",
+      "quantidade": 23615783,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Branco",
+      "quantidade": 15562889,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Branco",
+      "quantidade": 15655709,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Branco",
+      "quantidade": 13289304,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Branco",
+      "quantidade": 7930070,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Branco",
+      "quantidade": 18927471,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Branco",
+      "quantidade": 21933695,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Branco",
+      "quantidade": 19874659,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Branco",
+      "quantidade": 20409231,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Branco",
+      "quantidade": 17640081,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Branco",
+      "quantidade": 25727132,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Branco",
+      "quantidade": 19326572,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Branco",
+      "quantidade": 27528276,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Branco",
+      "quantidade": 34423412,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Branco",
+      "quantidade": 24164361,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Branco",
+      "quantidade": 30395959,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Branco",
+      "quantidade": 44679484,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Branco",
+      "quantidade": 34794145,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Branco",
+      "quantidade": 35432544,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Branco",
+      "quantidade": 56441847,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Branco",
+      "quantidade": 54983093,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Branco",
+      "quantidade": 52080420,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Branco",
+      "quantidade": 33307472,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Branco",
+      "quantidade": 38856367,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Branco",
+      "quantidade": 40415898,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Branco",
+      "quantidade": 42419680,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Branco",
+      "quantidade": 34209738,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Branco",
+      "quantidade": 31893892,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Branco",
+      "quantidade": 33792167,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Branco",
+      "quantidade": 24384090,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Branco",
+      "quantidade": 30674840,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Branco",
+      "quantidade": 36955126,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Branco",
+      "quantidade": 20393594,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Branco",
+      "quantidade": 17911689,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Branco",
+      "quantidade": 14058481,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Branco",
+      "quantidade": 19803647,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Branco",
+      "quantidade": 20012363,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Branco",
+      "quantidade": 13249969,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Branco",
+      "quantidade": 17598428,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Branco",
+      "quantidade": 18812571,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Branco",
+      "quantidade": 21366975,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Branco",
+      "quantidade": 13013027,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Branco",
+      "quantidade": 22739426,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Branco",
+      "quantidade": 20647238,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Branco",
+      "quantidade": 21906349,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Branco",
+      "quantidade": 20054804,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Branco",
+      "quantidade": 19561966,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Branco",
+      "quantidade": 8705066,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Branco",
+      "quantidade": 21928400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Branco",
+      "quantidade": 18297257,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Branco",
+      "quantidade": 18193055,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Branco",
+      "quantidade": 15487915,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Branco",
+      "quantidade": 20867999,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Branco",
+      "quantidade": 20896613,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Branco",
+      "quantidade": 20693437,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Rosado",
+      "quantidade": 744900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Rosado",
+      "quantidade": 664687,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Rosado",
+      "quantidade": 1006630,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Rosado",
+      "quantidade": 1018715,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Rosado",
+      "quantidade": 2668995,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Rosado",
+      "quantidade": 2759789,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Rosado",
+      "quantidade": 2220777,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Rosado",
+      "quantidade": 4723982,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Rosado",
+      "quantidade": 4110181,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Rosado",
+      "quantidade": 6046125,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Rosado",
+      "quantidade": 3117350,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Rosado",
+      "quantidade": 5782808,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Rosado",
+      "quantidade": 3042581,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Rosado",
+      "quantidade": 2111937,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Rosado",
+      "quantidade": 2115718,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Rosado",
+      "quantidade": 3007930,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Rosado",
+      "quantidade": 1482068,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Rosado",
+      "quantidade": 948649,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Rosado",
+      "quantidade": 1428400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Rosado",
+      "quantidade": 1648300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Rosado",
+      "quantidade": 3858200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Rosado",
+      "quantidade": 209800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Rosado",
+      "quantidade": 306500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Rosado",
+      "quantidade": 518842,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Rosado",
+      "quantidade": 667200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Rosado",
+      "quantidade": 992200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Rosado",
+      "quantidade": 611300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Rosado",
+      "quantidade": 605600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Rosado",
+      "quantidade": 798400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Rosado",
+      "quantidade": 515000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Rosado",
+      "quantidade": 709000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Rosado",
+      "quantidade": 178000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Rosado",
+      "quantidade": 124504,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Rosado",
+      "quantidade": 135400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Rosado",
+      "quantidade": 36779,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Rosado",
+      "quantidade": 31730,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Rosado",
+      "quantidade": 50900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Rosado",
+      "quantidade": 791985,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Rosado",
+      "quantidade": 938898,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Rosado",
+      "quantidade": 324550,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Rosado",
+      "quantidade": 391280,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Rosado",
+      "quantidade": 754305,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Rosado",
+      "quantidade": 525903,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Rosado",
+      "quantidade": 719723,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Rosado",
+      "quantidade": 1200514,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Rosado",
+      "quantidade": 841120,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Rosado",
+      "quantidade": 590713,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Rosado",
+      "quantidade": 1167258,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Rosado",
+      "quantidade": 1291709,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Rosado",
+      "quantidade": 2032990,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Rosado",
+      "quantidade": 1576888,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Rosado",
+      "quantidade": 2173750,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Rosado",
+      "quantidade": 2197265,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Rosado",
+      "quantidade": 1959336,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "SUCO",
+      "quantidade": 1097771,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "SUCO",
+      "quantidade": 2296654,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "SUCO",
+      "quantidade": 3509440,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "SUCO",
+      "quantidade": 6631667,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "SUCO",
+      "quantidade": 4313768,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "SUCO",
+      "quantidade": 5469016,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "SUCO",
+      "quantidade": 7586870,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "SUCO",
+      "quantidade": 6923183,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "SUCO",
+      "quantidade": 10423252,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "SUCO",
+      "quantidade": 11324462,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "SUCO",
+      "quantidade": 10797624,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "SUCO",
+      "quantidade": 12031753,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "SUCO",
+      "quantidade": 13343721,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "SUCO",
+      "quantidade": 12893959,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "SUCO",
+      "quantidade": 9189900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "SUCO",
+      "quantidade": 13409014,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "SUCO",
+      "quantidade": 13904186,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "SUCO",
+      "quantidade": 15532303,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "SUCO",
+      "quantidade": 17722779,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "SUCO",
+      "quantidade": 17987182,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "SUCO",
+      "quantidade": 20228691,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "SUCO",
+      "quantidade": 12420745,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "SUCO",
+      "quantidade": 24078112,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "SUCO",
+      "quantidade": 27960596,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "SUCO",
+      "quantidade": 31361096,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "SUCO",
+      "quantidade": 30136844,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "SUCO",
+      "quantidade": 35647994,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "SUCO",
+      "quantidade": 39715098,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "SUCO",
+      "quantidade": 50125944,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "SUCO",
+      "quantidade": 69364324,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "SUCO",
+      "quantidade": 70066732,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "SUCO",
+      "quantidade": 64879790,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "SUCO",
+      "quantidade": 76723537,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "SUCO",
+      "quantidade": 87894468,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "SUCO",
+      "quantidade": 42210389,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "SUCO",
+      "quantidade": 77161971,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "SUCO",
+      "quantidade": 65467906,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "SUCO",
+      "quantidade": 77805352,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "SUCO",
+      "quantidade": 69261287,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "SUCO",
+      "quantidade": 100932264,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "SUCO",
+      "quantidade": 65809079,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "SUCO",
+      "quantidade": 67045238,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Suco de uva integral",
+      "quantidade": 1097771,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Suco de uva integral",
+      "quantidade": 2296654,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Suco de uva integral",
+      "quantidade": 3509440,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Suco de uva integral",
+      "quantidade": 3544706,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Suco de uva integral",
+      "quantidade": 2116507,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Suco de uva integral",
+      "quantidade": 2262240,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Suco de uva integral",
+      "quantidade": 2018000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Suco de uva integral",
+      "quantidade": 2824600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Suco de uva integral",
+      "quantidade": 2848560,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Suco de uva integral",
+      "quantidade": 3609000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Suco de uva integral",
+      "quantidade": 4033698,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Suco de uva integral",
+      "quantidade": 3800800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Suco de uva integral",
+      "quantidade": 3884000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Suco de uva integral",
+      "quantidade": 4123776,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Suco de uva integral",
+      "quantidade": 2407900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Suco de uva integral",
+      "quantidade": 2884969,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Suco de uva integral",
+      "quantidade": 3904186,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Suco de uva integral",
+      "quantidade": 4132303,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Suco de uva integral",
+      "quantidade": 3546779,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Suco de uva integral",
+      "quantidade": 5196430,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Suco de uva integral",
+      "quantidade": 5505889,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Suco de uva integral",
+      "quantidade": 1372381,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Suco de uva integral",
+      "quantidade": 6222380,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Suco de uva integral",
+      "quantidade": 7103175,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Suco de uva integral",
+      "quantidade": 13946491,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Suco de uva integral",
+      "quantidade": 10147037,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Suco de uva integral",
+      "quantidade": 11817941,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Suco de uva integral",
+      "quantidade": 16034003,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Suco de uva integral",
+      "quantidade": 26887259,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Suco de uva integral",
+      "quantidade": 39487800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Suco de uva integral",
+      "quantidade": 31908829,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Suco de uva integral",
+      "quantidade": 33673396,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Suco de uva integral",
+      "quantidade": 43331223,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Suco de uva integral",
+      "quantidade": 52233155,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Suco de uva integral",
+      "quantidade": 31117869,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Suco de uva integral",
+      "quantidade": 46865626,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Suco de uva integral",
+      "quantidade": 34367996,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Suco de uva integral",
+      "quantidade": 50239767,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Suco de uva integral",
+      "quantidade": 40718523,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Suco de uva integral",
+      "quantidade": 68038479,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Suco de uva integral",
+      "quantidade": 35248305,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Suco de uva integral",
+      "quantidade": 38122173,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 3086961,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 2197261,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 3206776,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 5568870,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 4098583,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 7574692,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 7715462,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 6763926,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 8230953,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 9459721,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 8770183,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 6782000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 10524045,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 10000000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 11400000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 14176000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 12790752,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 14722802,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 11048364,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 17855732,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 19513244,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 17414605,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 19280709,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 23014646,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 23006457,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 23238685,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 29564324,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 37624855,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 31206394,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 33392314,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 35661313,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 11092520,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 30059271,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 31099910,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 26861009,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 27963865,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 32131218,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 29892550,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Suco de uva concentrado",
+      "quantidade": 28216760,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 1344177,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 709098,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 815407,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 674638,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 312200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 533048,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 177774,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 120320,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 107289,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 40450,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 79130,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Suco de uva adoçado",
+      "quantidade": 94587,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Suco de uva orgânico",
+      "quantidade": 471610,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Suco de uva orgânico",
+      "quantidade": 722117,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Suco de uva orgânico",
+      "quantidade": 589094,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Suco de uva orgânico",
+      "quantidade": 611718,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Suco de uva reconstituído",
+      "quantidade": 59300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Suco de uva reconstituído",
+      "quantidade": 584256,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "DERIVADOS",
+      "quantidade": 14164329,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "DERIVADOS",
+      "quantidade": 13280518,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "DERIVADOS",
+      "quantidade": 12314509,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "DERIVADOS",
+      "quantidade": 28317919,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "DERIVADOS",
+      "quantidade": 47904934,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "DERIVADOS",
+      "quantidade": 53633143,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "DERIVADOS",
+      "quantidade": 22925012,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "DERIVADOS",
+      "quantidade": 24015856,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "DERIVADOS",
+      "quantidade": 41607777,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "DERIVADOS",
+      "quantidade": 35370846,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "DERIVADOS",
+      "quantidade": 37553414,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "DERIVADOS",
+      "quantidade": 52530037,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "DERIVADOS",
+      "quantidade": 37506770,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "DERIVADOS",
+      "quantidade": 27314628,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "DERIVADOS",
+      "quantidade": 17331744,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "DERIVADOS",
+      "quantidade": 17336419,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "DERIVADOS",
+      "quantidade": 14785645,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "DERIVADOS",
+      "quantidade": 14905862,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "DERIVADOS",
+      "quantidade": 19644584,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "DERIVADOS",
+      "quantidade": 12004574,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "DERIVADOS",
+      "quantidade": 16191621,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "DERIVADOS",
+      "quantidade": 20352398,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "DERIVADOS",
+      "quantidade": 29469940,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "DERIVADOS",
+      "quantidade": 17573100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "DERIVADOS",
+      "quantidade": 16053642,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "DERIVADOS",
+      "quantidade": 23637100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "DERIVADOS",
+      "quantidade": 12754798,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "DERIVADOS",
+      "quantidade": 24553317,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "DERIVADOS",
+      "quantidade": 14693351,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "DERIVADOS",
+      "quantidade": 23422306,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "DERIVADOS",
+      "quantidade": 25959016,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "DERIVADOS",
+      "quantidade": 15498842,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "DERIVADOS",
+      "quantidade": 28122348,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "DERIVADOS",
+      "quantidade": 24108352,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "DERIVADOS",
+      "quantidade": 28471858,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "DERIVADOS",
+      "quantidade": 25541605,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "DERIVADOS",
+      "quantidade": 27752531,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "DERIVADOS",
+      "quantidade": 42011603,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "DERIVADOS",
+      "quantidade": 59622293,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "DERIVADOS",
+      "quantidade": 56787892,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "DERIVADOS",
+      "quantidade": 51210756,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "DERIVADOS",
+      "quantidade": 85748723,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "DERIVADOS",
+      "quantidade": 100757101,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "DERIVADOS",
+      "quantidade": 64072127,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "DERIVADOS",
+      "quantidade": 62907281,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "DERIVADOS",
+      "quantidade": 107349704,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "DERIVADOS",
+      "quantidade": 53950314,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "DERIVADOS",
+      "quantidade": 109116761,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "DERIVADOS",
+      "quantidade": 95202101,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "DERIVADOS",
+      "quantidade": 142888747,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "DERIVADOS",
+      "quantidade": 92533804,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "DERIVADOS",
+      "quantidade": 169031493,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "DERIVADOS",
+      "quantidade": 138501226,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "DERIVADOS",
+      "quantidade": 174716647,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Espumante",
+      "quantidade": 76000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Espumante",
+      "quantidade": 11000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Espumante",
+      "quantidade": 6900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Espumante",
+      "quantidade": 71410,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Espumante",
+      "quantidade": 3999,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Espumante",
+      "quantidade": 1920,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Espumante",
+      "quantidade": 26600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Espumante",
+      "quantidade": 88690,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Espumante",
+      "quantidade": 10125,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Espumante",
+      "quantidade": 26361,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Espumante",
+      "quantidade": 17200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Espumante",
+      "quantidade": 30275,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Espumante",
+      "quantidade": 2700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Espumante",
+      "quantidade": 23750,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Espumante",
+      "quantidade": 1500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Espumante",
+      "quantidade": 11280,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Espumante",
+      "quantidade": 68500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Espumante",
+      "quantidade": 52176,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Espumante",
+      "quantidade": 32399,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Espumante",
+      "quantidade": 70091,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Espumante",
+      "quantidade": 70759,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Espumante",
+      "quantidade": 65525,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Espumante moscatel",
+      "quantidade": 276099,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Espumante moscatel",
+      "quantidade": 147600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Espumante moscatel",
+      "quantidade": 204000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Espumante moscatel",
+      "quantidade": 514480,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Espumante moscatel",
+      "quantidade": 320514,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Espumante moscatel",
+      "quantidade": 589332,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Espumante moscatel",
+      "quantidade": 1113462,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Espumante moscatel",
+      "quantidade": 1190500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Espumante moscatel",
+      "quantidade": 703393,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Espumante moscatel",
+      "quantidade": 219100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Espumante moscatel",
+      "quantidade": 139775,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Espumante moscatel",
+      "quantidade": 159781,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Espumante moscatel",
+      "quantidade": 100000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Espumante moscatel",
+      "quantidade": 110100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Espumante moscatel",
+      "quantidade": 100000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Espumante moscatel",
+      "quantidade": 152375,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Espumante moscatel",
+      "quantidade": 326200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Espumante moscatel",
+      "quantidade": 515800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Espumante moscatel",
+      "quantidade": 689139,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Espumante moscatel",
+      "quantidade": 11950,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Espumante moscatel",
+      "quantidade": 27200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Espumante moscatel",
+      "quantidade": 14744,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Base espumante",
+      "quantidade": 239000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Base espumante",
+      "quantidade": 78250,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Base espumante",
+      "quantidade": 220120,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Base espumante",
+      "quantidade": 335850,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Base espumante",
+      "quantidade": 5475049,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Base espumante moscatel",
+      "quantidade": 98900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Base espumante moscatel",
+      "quantidade": 212400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Base espumante moscatel",
+      "quantidade": 362589,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Base espumante moscatel",
+      "quantidade": 111200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Base espumante moscatel",
+      "quantidade": 474721,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Base espumante moscatel",
+      "quantidade": 442150,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1144508,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Base espumante moscatel",
+      "quantidade": 2749540,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Base espumante moscatel",
+      "quantidade": 2798908,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1470700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1808044,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1607727,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1325700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1965629,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1320650,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Base espumante moscatel",
+      "quantidade": 1962443,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Base espumante moscatel",
+      "quantidade": 3006705,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Base espumante moscatel",
+      "quantidade": 5549471,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Base espumante moscatel",
+      "quantidade": 6308043,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Base espumante moscatel",
+      "quantidade": 6734590,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 92082,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 74746,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 369278,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 359617,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 234725,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 605001,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 740395,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 1552403,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 228518,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 274903,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 200777,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 1146717,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Base Champenoise champanha",
+      "quantidade": 1552243,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Base Charmat champanha",
+      "quantidade": 254000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Base Charmat champanha",
+      "quantidade": 865858,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Base Charmat champanha",
+      "quantidade": 479625,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Base Charmat champanha",
+      "quantidade": 624728,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Base Charmat champanha",
+      "quantidade": 376968,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Base Charmat champanha",
+      "quantidade": 1466259,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Base Charmat champanha",
+      "quantidade": 250280,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Base Charmat champanha",
+      "quantidade": 893364,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Base Charmat champanha",
+      "quantidade": 1746540,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Base Charmat champanha",
+      "quantidade": 1188095,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Base Charmat champanha",
+      "quantidade": 2487939,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Base Charmat champanha",
+      "quantidade": 4078766,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Base Charmat champanha",
+      "quantidade": 5418118,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Bebida de uva",
+      "quantidade": 1082700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Bebida de uva",
+      "quantidade": 420,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Bebida de uva",
+      "quantidade": 7900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Bebida de uva",
+      "quantidade": 4260,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Bebida de uva",
+      "quantidade": 3860,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Bebida de uva",
+      "quantidade": 922,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Bebida de uva",
+      "quantidade": 3474,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Bebida de uva",
+      "quantidade": 2000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Bebida de uva",
+      "quantidade": 1627,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Polpa de uva",
+      "quantidade": 890562,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Polpa de uva",
+      "quantidade": 1350672,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Polpa de uva",
+      "quantidade": 1006000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Polpa de uva",
+      "quantidade": 1083202,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Polpa de uva",
+      "quantidade": 1188260,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Polpa de uva",
+      "quantidade": 1352417,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Polpa de uva",
+      "quantidade": 1951606,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Polpa de uva",
+      "quantidade": 2480120,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Polpa de uva",
+      "quantidade": 2797665,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Polpa de uva",
+      "quantidade": 1742152,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Polpa de uva",
+      "quantidade": 2484000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Polpa de uva",
+      "quantidade": 2371140,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Polpa de uva",
+      "quantidade": 1620430,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Polpa de uva",
+      "quantidade": 2507125,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Polpa de uva",
+      "quantidade": 2112683,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Polpa de uva",
+      "quantidade": 1480269,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Polpa de uva",
+      "quantidade": 1803472,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Polpa de uva",
+      "quantidade": 1180578,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Polpa de uva",
+      "quantidade": 387886,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Polpa de uva",
+      "quantidade": 1388251,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Mosto simples",
+      "quantidade": 7170736,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Mosto simples",
+      "quantidade": 7646774,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Mosto simples",
+      "quantidade": 6051822,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Mosto simples",
+      "quantidade": 21779327,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Mosto simples",
+      "quantidade": 41346735,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Mosto simples",
+      "quantidade": 48185206,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Mosto simples",
+      "quantidade": 18220527,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Mosto simples",
+      "quantidade": 22097156,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Mosto simples",
+      "quantidade": 40052456,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Mosto simples",
+      "quantidade": 34318456,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1980,
+      "produto": "Mosto simples",
+      "quantidade": 37553414,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Mosto simples",
+      "quantidade": 48762185,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1982,
+      "produto": "Mosto simples",
+      "quantidade": 37506770,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1983,
+      "produto": "Mosto simples",
+      "quantidade": 27314628,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1984,
+      "produto": "Mosto simples",
+      "quantidade": 17331744,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Mosto simples",
+      "quantidade": 10637557,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Mosto simples",
+      "quantidade": 7031320,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Mosto simples",
+      "quantidade": 7821040,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Mosto simples",
+      "quantidade": 16544460,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Mosto simples",
+      "quantidade": 8141100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Mosto simples",
+      "quantidade": 13307690,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Mosto simples",
+      "quantidade": 17407568,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Mosto simples",
+      "quantidade": 27491540,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Mosto simples",
+      "quantidade": 17218000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Mosto simples",
+      "quantidade": 10972700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Mosto simples",
+      "quantidade": 20917600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Mosto simples",
+      "quantidade": 12111372,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Mosto simples",
+      "quantidade": 19066000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Mosto simples",
+      "quantidade": 11046570,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Mosto simples",
+      "quantidade": 14359734,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Mosto simples",
+      "quantidade": 16192018,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Mosto simples",
+      "quantidade": 6977231,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Mosto simples",
+      "quantidade": 12875000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Mosto simples",
+      "quantidade": 13172480,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Mosto simples",
+      "quantidade": 26067525,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Mosto simples",
+      "quantidade": 22429791,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Mosto simples",
+      "quantidade": 25903812,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Mosto simples",
+      "quantidade": 37558010,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Mosto simples",
+      "quantidade": 53683415,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Mosto simples",
+      "quantidade": 53418555,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Mosto simples",
+      "quantidade": 45912040,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Mosto simples",
+      "quantidade": 77285998,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Mosto simples",
+      "quantidade": 93341575,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Mosto simples",
+      "quantidade": 58517506,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Mosto simples",
+      "quantidade": 57582195,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Mosto simples",
+      "quantidade": 100911592,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Mosto simples",
+      "quantidade": 49770993,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Mosto simples",
+      "quantidade": 101010116,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Mosto simples",
+      "quantidade": 88910980,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Mosto simples",
+      "quantidade": 135614344,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Mosto simples",
+      "quantidade": 80355474,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Mosto simples",
+      "quantidade": 153579926,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Mosto simples",
+      "quantidade": 126048241,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Mosto simples",
+      "quantidade": 157848983,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Mosto concentrado",
+      "quantidade": 354707,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Mosto concentrado",
+      "quantidade": 295800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Mosto concentrado",
+      "quantidade": 400500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Mosto concentrado",
+      "quantidade": 384200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Mosto concentrado",
+      "quantidade": 732470,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Mosto concentrado",
+      "quantidade": 1098250,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Mosto concentrado",
+      "quantidade": 921400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Mosto concentrado",
+      "quantidade": 288900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1993,
+      "produto": "Mosto concentrado",
+      "quantidade": 355100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Mosto concentrado",
+      "quantidade": 335500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Mosto concentrado",
+      "quantidade": 265000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Mosto concentrado",
+      "quantidade": 292000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Mosto concentrado",
+      "quantidade": 490000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Mosto concentrado",
+      "quantidade": 381000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Mosto concentrado",
+      "quantidade": 411354,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Mosto concentrado",
+      "quantidade": 83116,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Mosto concentrado",
+      "quantidade": 110000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 1037600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 772110,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 645816,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 3078256,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 618764,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Mosto de uva com bagaço",
+      "quantidade": 7784,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Mosto dessulfitado",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Mosto dessulfitado",
+      "quantidade": 5000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Mosto dessulfitado",
+      "quantidade": 1532000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Mistelas",
+      "quantidade": 1072100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Mistelas",
+      "quantidade": 818400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Mistelas",
+      "quantidade": 871200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Mistelas",
+      "quantidade": 512900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Mistelas",
+      "quantidade": 826300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Mistelas",
+      "quantidade": 223000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Mistelas",
+      "quantidade": 205500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Mistelas",
+      "quantidade": 553200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Mistelas",
+      "quantidade": 242150,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Mistelas",
+      "quantidade": 60300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Mistelas",
+      "quantidade": 378400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Mistelas",
+      "quantidade": 402600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Mistelas",
+      "quantidade": 196000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Mistelas",
+      "quantidade": 32000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Mistelas",
+      "quantidade": 149000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Mistelas",
+      "quantidade": 33000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Mistelas",
+      "quantidade": 15000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Mistelas",
+      "quantidade": 5500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Mistelas",
+      "quantidade": 11500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Mistelas",
+      "quantidade": 9960,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Mistelas",
+      "quantidade": 1900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Mistelas",
+      "quantidade": 2000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Mistelas",
+      "quantidade": 3500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Mistelas",
+      "quantidade": 200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Mistelas",
+      "quantidade": 2500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Mistelas",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Mistelas",
+      "quantidade": 1500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Mistelas",
+      "quantidade": 2000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Mistelas",
+      "quantidade": 3000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Mistelas",
+      "quantidade": 2500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Mistelas",
+      "quantidade": 600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Néctar de uva",
+      "quantidade": 10000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Néctar de uva",
+      "quantidade": 1140,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Néctar de uva",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Néctar de uva",
+      "quantidade": 3000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Néctar de uva",
+      "quantidade": 32519,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Néctar de uva",
+      "quantidade": 46000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Néctar de uva",
+      "quantidade": 18187,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Néctar de uva",
+      "quantidade": 70976,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Licorosos",
+      "quantidade": 282500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Licorosos",
+      "quantidade": 270000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Licorosos",
+      "quantidade": 254600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Licorosos",
+      "quantidade": 176500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Licorosos",
+      "quantidade": 135000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Licorosos",
+      "quantidade": 24000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Licorosos",
+      "quantidade": 4400,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Licorosos",
+      "quantidade": 525000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Licorosos",
+      "quantidade": 479971,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Licorosos",
+      "quantidade": 34000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Licorosos",
+      "quantidade": 3000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Licorosos",
+      "quantidade": 20000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Licorosos",
+      "quantidade": 24300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Licorosos",
+      "quantidade": 11500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Licorosos",
+      "quantidade": 7800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Licorosos",
+      "quantidade": 44740,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Licorosos",
+      "quantidade": 21000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Licorosos",
+      "quantidade": 4000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Licorosos",
+      "quantidade": 34420,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Licorosos",
+      "quantidade": 38000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Licorosos",
+      "quantidade": 26775,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Licorosos",
+      "quantidade": 110820,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Compostos",
+      "quantidade": 45000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Compostos",
+      "quantidade": 1358300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Compostos",
+      "quantidade": 1628000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Compostos",
+      "quantidade": 75000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Compostos",
+      "quantidade": 2000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Compostos",
+      "quantidade": 1900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Compostos",
+      "quantidade": 7600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Jeropiga",
+      "quantidade": 107500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Jeropiga",
+      "quantidade": 12500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Jeropiga",
+      "quantidade": 60000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Jeropiga",
+      "quantidade": 20000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Jeropiga",
+      "quantidade": 234500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Jeropiga",
+      "quantidade": 173000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Jeropiga",
+      "quantidade": 122000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Jeropiga",
+      "quantidade": 61000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Jeropiga",
+      "quantidade": 42000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Jeropiga",
+      "quantidade": 60000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Jeropiga",
+      "quantidade": 69000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Jeropiga",
+      "quantidade": 2000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Jeropiga",
+      "quantidade": 3540,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Jeropiga",
+      "quantidade": 5000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Jeropiga",
+      "quantidade": 4500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Filtrado",
+      "quantidade": 88000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Filtrado",
+      "quantidade": 39000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Filtrado",
+      "quantidade": 11000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Filtrado",
+      "quantidade": 18000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Filtrado",
+      "quantidade": 11000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Frisante",
+      "quantidade": 831000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Frisante",
+      "quantidade": 1003800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2012,
+      "produto": "Frisante",
+      "quantidade": 778500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Frisante",
+      "quantidade": 1009000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Frisante",
+      "quantidade": 26069,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Frisante",
+      "quantidade": 1390,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Vinho leve",
+      "quantidade": 249000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Vinho leve",
+      "quantidade": 264000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Vinho leve",
+      "quantidade": 192800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Vinho leve",
+      "quantidade": 144500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Vinho leve",
+      "quantidade": 11000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Vinho leve",
+      "quantidade": 6000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Vinho leve",
+      "quantidade": 16500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Vinho leve",
+      "quantidade": 8000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Vinho licoroso",
+      "quantidade": 77800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Vinho licoroso",
+      "quantidade": 125700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Vinho licoroso",
+      "quantidade": 28500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Vinho licoroso",
+      "quantidade": 27926,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Vinho licoroso",
+      "quantidade": 65650,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Vinho licoroso",
+      "quantidade": 15000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Vinho licoroso",
+      "quantidade": 100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Vinho licoroso",
+      "quantidade": 36000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Vinho licoroso",
+      "quantidade": 56000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Vinho licoroso",
+      "quantidade": 24200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Vinho licoroso",
+      "quantidade": 110820,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Vinho licoroso",
+      "quantidade": 124303,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Vinho licoroso",
+      "quantidade": 99485,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Vinho licoroso",
+      "quantidade": 48678,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Vinho licoroso",
+      "quantidade": 30000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Vinho licoroso",
+      "quantidade": 67000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Vinho licoroso",
+      "quantidade": 73600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Brandy",
+      "quantidade": 13000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Brandy",
+      "quantidade": 5216,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Brandy",
+      "quantidade": 6500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Brandy",
+      "quantidade": 120,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Brandy",
+      "quantidade": 450,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Destilado",
+      "quantidade": 830030,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Destilado",
+      "quantidade": 342650,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Destilado",
+      "quantidade": 222230,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Destilado",
+      "quantidade": 472576,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Destilado",
+      "quantidade": 287220,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Destilado",
+      "quantidade": 176800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Destilado",
+      "quantidade": 7350,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Destilado",
+      "quantidade": 1960,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Destilado",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Destilado",
+      "quantidade": 680,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Bagaceira",
+      "quantidade": 961290,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Bagaceira",
+      "quantidade": 913200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Bagaceira",
+      "quantidade": 755350,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Bagaceira",
+      "quantidade": 661270,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Bagaceira",
+      "quantidade": 424620,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Bagaceira",
+      "quantidade": 576098,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Bagaceira",
+      "quantidade": 705912,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1977,
+      "produto": "Bagaceira",
+      "quantidade": 828000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1978,
+      "produto": "Bagaceira",
+      "quantidade": 698200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1979,
+      "produto": "Bagaceira",
+      "quantidade": 938090,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Bagaceira",
+      "quantidade": 299500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Bagaceira",
+      "quantidade": 156100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Bagaceira",
+      "quantidade": 325600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Bagaceira",
+      "quantidade": 29000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Bagaceira",
+      "quantidade": 52000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Bagaceira",
+      "quantidade": 55000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Bagaceira",
+      "quantidade": 15000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Bagaceira",
+      "quantidade": 10000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Bagaceira",
+      "quantidade": 12700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Bagaceira",
+      "quantidade": 10350,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Bagaceira",
+      "quantidade": 26800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Bagaceira",
+      "quantidade": 66082,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Bagaceira",
+      "quantidade": 32050,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Bagaceira",
+      "quantidade": 24250,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Bagaceira",
+      "quantidade": 48500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Bagaceira",
+      "quantidade": 8500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2009,
+      "produto": "Bagaceira",
+      "quantidade": 6500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Bagaceira",
+      "quantidade": 1350,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Bagaceira",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Bagaceira",
+      "quantidade": 900,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Bagaceira",
+      "quantidade": 2100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Bagaceira",
+      "quantidade": 10495,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Bagaceira",
+      "quantidade": 12060,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Bagaceira",
+      "quantidade": 4998,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Licor de bagaceira",
+      "quantidade": 1507,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Licor de bagaceira",
+      "quantidade": 5800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Vinagre",
+      "quantidade": 21500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Vinagre",
+      "quantidade": 8200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Vinagre",
+      "quantidade": 35300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Vinagre",
+      "quantidade": 288000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Vinagre",
+      "quantidade": 104707,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Vinagre",
+      "quantidade": 45000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Vinagre",
+      "quantidade": 5817,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Vinagre",
+      "quantidade": 53776,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Vinagre",
+      "quantidade": 25800,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Vinagre",
+      "quantidade": 5000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2017,
+      "produto": "Vinagre",
+      "quantidade": 25319,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Vinagre",
+      "quantidade": 25367,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Vinagre",
+      "quantidade": 76096,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Vinagre",
+      "quantidade": 10000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Vinagre",
+      "quantidade": 7500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Vinagre",
+      "quantidade": 16200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Vinagre",
+      "quantidade": 9000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1970,
+      "produto": "Borra líquida",
+      "quantidade": 3847673,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1971,
+      "produto": "Borra líquida",
+      "quantidade": 3565644,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1972,
+      "produto": "Borra líquida",
+      "quantidade": 3015037,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1973,
+      "produto": "Borra líquida",
+      "quantidade": 3559922,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1974,
+      "produto": "Borra líquida",
+      "quantidade": 5136979,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1975,
+      "produto": "Borra líquida",
+      "quantidade": 4624839,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1976,
+      "produto": "Borra líquida",
+      "quantidade": 3393173,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1981,
+      "produto": "Borra líquida",
+      "quantidade": 3767852,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Borra líquida",
+      "quantidade": 5095798,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Borra líquida",
+      "quantidade": 6357648,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Borra líquida",
+      "quantidade": 5142446,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Borra líquida",
+      "quantidade": 1953488,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Borra líquida",
+      "quantidade": 2426804,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1990,
+      "produto": "Borra líquida",
+      "quantidade": 1282381,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Borra líquida",
+      "quantidade": 1649130,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1992,
+      "produto": "Borra líquida",
+      "quantidade": 1400200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2000,
+      "produto": "Borra líquida",
+      "quantidade": 9626928,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2001,
+      "produto": "Borra líquida",
+      "quantidade": 8216162,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Borra líquida",
+      "quantidade": 8541861,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Borra líquida",
+      "quantidade": 3126172,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2004,
+      "produto": "Borra líquida",
+      "quantidade": 1044490,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2005,
+      "produto": "Borra líquida",
+      "quantidade": 526016,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Borra líquida",
+      "quantidade": 57333,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Borra líquida",
+      "quantidade": 2095873,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Borra líquida",
+      "quantidade": 1679775,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Borra líquida",
+      "quantidade": 64304,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Borra líquida",
+      "quantidade": 63111,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Borra líquida",
+      "quantidade": 50954,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Borra líquida",
+      "quantidade": 48833,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Borra líquida",
+      "quantidade": 24975,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Borra líquida",
+      "quantidade": 255100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Borra líquida",
+      "quantidade": 901431,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Borra líquida",
+      "quantidade": 509378,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Borra líquida",
+      "quantidade": 116450,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Borra líquida",
+      "quantidade": 758140,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2010,
+      "produto": "Borra seca",
+      "quantidade": 149981,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2013,
+      "produto": "Borra seca",
+      "quantidade": 78397,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Borra seca",
+      "quantidade": 142850,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2015,
+      "produto": "Borra seca",
+      "quantidade": 120230,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2016,
+      "produto": "Borra seca",
+      "quantidade": 82367,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2018,
+      "produto": "Borra seca",
+      "quantidade": 70480,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Borra seca",
+      "quantidade": 25996,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Borra seca",
+      "quantidade": 167587,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Borra seca",
+      "quantidade": 16789,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Borra seca",
+      "quantidade": 17200,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2014,
+      "produto": "Vinho Composto",
+      "quantidade": 3000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Vinho Composto",
+      "quantidade": 160000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2019,
+      "produto": "Pisco",
+      "quantidade": 3372,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Pisco",
+      "quantidade": 1000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1985,
+      "produto": "Vinho orgânico",
+      "quantidade": 254000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1986,
+      "produto": "Vinho orgânico",
+      "quantidade": 171147,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1987,
+      "produto": "Vinho orgânico",
+      "quantidade": 219100,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1988,
+      "produto": "Vinho orgânico",
+      "quantidade": 15000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1989,
+      "produto": "Vinho orgânico",
+      "quantidade": 85000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1991,
+      "produto": "Vinho orgânico",
+      "quantidade": 137000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1994,
+      "produto": "Vinho orgânico",
+      "quantidade": 4745442,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1995,
+      "produto": "Vinho orgânico",
+      "quantidade": 2454500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1996,
+      "produto": "Vinho orgânico",
+      "quantidade": 351426,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1997,
+      "produto": "Vinho orgânico",
+      "quantidade": 4997317,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1998,
+      "produto": "Vinho orgânico",
+      "quantidade": 3265781,
+      "unidade": "litros"
+    },
+    {
+      "ano": 1999,
+      "produto": "Vinho orgânico",
+      "quantidade": 8592228,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2002,
+      "produto": "Vinho orgânico",
+      "quantidade": 6705487,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2003,
+      "produto": "Vinho orgânico",
+      "quantidade": 7584380,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2006,
+      "produto": "Vinho orgânico",
+      "quantidade": 22933,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2007,
+      "produto": "Vinho orgânico",
+      "quantidade": 307410,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2008,
+      "produto": "Vinho orgânico",
+      "quantidade": 15000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2011,
+      "produto": "Vinho orgânico",
+      "quantidade": 5600,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Vinho orgânico",
+      "quantidade": 18700,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Vinho orgânico",
+      "quantidade": 93884,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Vinho orgânico",
+      "quantidade": 88890,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Vinho orgânico",
+      "quantidade": 94150,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Espumante orgânico",
+      "quantidade": 2412,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Espumante orgânico",
+      "quantidade": 1365,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Destilado alcoólico simples de bagaceira",
+      "quantidade": 500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Destilado alcoólico simples de bagaceira",
+      "quantidade": 3000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Destilado alcoólico simples de bagaceira",
+      "quantidade": 4300,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2020,
+      "produto": "Vinho acidificado",
+      "quantidade": 65000,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Vinho acidificado",
+      "quantidade": 2500,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Mosto parcialmente fermentado",
+      "quantidade": 543510,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2021,
+      "produto": "Outros derivados",
+      "quantidade": 322,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2022,
+      "produto": "Outros derivados",
+      "quantidade": 247228,
+      "unidade": "litros"
+    },
+    {
+      "ano": 2023,
+      "produto": "Outros derivados",
+      "quantidade": 652301,
+      "unidade": "litros"
+    }
+  ],
+  "timestamp": "2025-05-30T16:44:50.534782",
+  "source": "embrapa_scraping"
+}

@@ -1,0 +1,6754 @@
+{
+  "data": [
+    {
+      "ano": 2001,
+      "pais": "Africa do Sul",
+      "quantidade": 99201,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Africa do Sul",
+      "quantidade": 106317,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Africa do Sul",
+      "quantidade": 305701,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Africa do Sul",
+      "quantidade": 665101,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Africa do Sul",
+      "quantidade": 775421,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Africa do Sul",
+      "quantidade": 1164032,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Africa do Sul",
+      "quantidade": 1320244,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Africa do Sul",
+      "quantidade": 1151699,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Africa do Sul",
+      "quantidade": 1931449,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Africa do Sul",
+      "quantidade": 3600658,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Africa do Sul",
+      "quantidade": 2136394,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Africa do Sul",
+      "quantidade": 3041449,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Africa do Sul",
+      "quantidade": 1985184,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Africa do Sul",
+      "quantidade": 3033932,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Africa do Sul",
+      "quantidade": 2996543,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Africa do Sul",
+      "quantidade": 1686226,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Africa do Sul",
+      "quantidade": 3241298,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Africa do Sul",
+      "quantidade": 3574371,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Africa do Sul",
+      "quantidade": 3604038,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Africa do Sul",
+      "quantidade": 1701072,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Africa do Sul",
+      "quantidade": 2508140,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Africa do Sul",
+      "quantidade": 2266827,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Africa do Sul",
+      "quantidade": 1732850,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Africa do Sul",
+      "quantidade": 2133775,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Alemanha",
+      "quantidade": 30498,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Alemanha",
+      "quantidade": 26027,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Alemanha",
+      "quantidade": 92103,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Alemanha",
+      "quantidade": 98638,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Alemanha",
+      "quantidade": 202502,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Alemanha",
+      "quantidade": 149931,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Alemanha",
+      "quantidade": 171308,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Alemanha",
+      "quantidade": 201840,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Alemanha",
+      "quantidade": 668631,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Alemanha",
+      "quantidade": 691404,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Alemanha",
+      "quantidade": 704307,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Alemanha",
+      "quantidade": 853830,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Alemanha",
+      "quantidade": 1126928,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Alemanha",
+      "quantidade": 908380,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Alemanha",
+      "quantidade": 564129,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Alemanha",
+      "quantidade": 1122438,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Alemanha",
+      "quantidade": 3008737,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Alemanha",
+      "quantidade": 1863924,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Alemanha",
+      "quantidade": 2757417,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Alemanha",
+      "quantidade": 4074739,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Alemanha",
+      "quantidade": 5875679,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Alemanha",
+      "quantidade": 4545305,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Alemanha",
+      "quantidade": 3644055,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Alemanha",
+      "quantidade": 7155615,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Alemanha",
+      "quantidade": 16068528,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Alemanha",
+      "quantidade": 19758144,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Alemanha",
+      "quantidade": 10629243,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Alemanha",
+      "quantidade": 5108215,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Alemanha",
+      "quantidade": 4834030,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Alemanha",
+      "quantidade": 4539354,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Alemanha",
+      "quantidade": 1668539,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Alemanha",
+      "quantidade": 1169872,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Alemanha",
+      "quantidade": 829695,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Alemanha",
+      "quantidade": 629664,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Alemanha",
+      "quantidade": 550750,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Alemanha",
+      "quantidade": 382599,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Alemanha",
+      "quantidade": 634870,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Alemanha",
+      "quantidade": 647626,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Alemanha",
+      "quantidade": 1063825,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Alemanha",
+      "quantidade": 291876,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Alemanha",
+      "quantidade": 784674,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Alemanha",
+      "quantidade": 933545,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Alemanha",
+      "quantidade": 591167,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Alemanha",
+      "quantidade": 414070,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Alemanha",
+      "quantidade": 483316,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Alemanha",
+      "quantidade": 358275,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Alemanha",
+      "quantidade": 606333,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Alemanha",
+      "quantidade": 315959,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Alemanha",
+      "quantidade": 516975,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Alemanha",
+      "quantidade": 412794,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Alemanha",
+      "quantidade": 504168,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Alemanha",
+      "quantidade": 546967,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Alemanha",
+      "quantidade": 438595,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Alemanha",
+      "quantidade": 557947,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Alemanha",
+      "quantidade": 805466,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Argélia",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Arábia Saudita",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Arábia Saudita",
+      "quantidade": 3249,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Arábia Saudita",
+      "quantidade": 8761,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Arábia Saudita",
+      "quantidade": 161,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Argentina",
+      "quantidade": 12260,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Argentina",
+      "quantidade": 15022,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Argentina",
+      "quantidade": 58137,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Argentina",
+      "quantidade": 76121,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Argentina",
+      "quantidade": 167473,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Argentina",
+      "quantidade": 90855,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Argentina",
+      "quantidade": 277507,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Argentina",
+      "quantidade": 395615,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Argentina",
+      "quantidade": 709813,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Argentina",
+      "quantidade": 888941,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Argentina",
+      "quantidade": 479464,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Argentina",
+      "quantidade": 209173,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Argentina",
+      "quantidade": 264487,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Argentina",
+      "quantidade": 188625,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Argentina",
+      "quantidade": 64603,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Argentina",
+      "quantidade": 164424,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Argentina",
+      "quantidade": 242678,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Argentina",
+      "quantidade": 136841,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Argentina",
+      "quantidade": 590758,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Argentina",
+      "quantidade": 1153585,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Argentina",
+      "quantidade": 721398,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Argentina",
+      "quantidade": 1493649,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Argentina",
+      "quantidade": 815668,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Argentina",
+      "quantidade": 795068,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Argentina",
+      "quantidade": 730091,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Argentina",
+      "quantidade": 1992083,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Argentina",
+      "quantidade": 1438076,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Argentina",
+      "quantidade": 2089559,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Argentina",
+      "quantidade": 3073775,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Argentina",
+      "quantidade": 5284871,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Argentina",
+      "quantidade": 6556544,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Argentina",
+      "quantidade": 6196286,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Argentina",
+      "quantidade": 6894469,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Argentina",
+      "quantidade": 9653634,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Argentina",
+      "quantidade": 17142493,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Argentina",
+      "quantidade": 21623751,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Argentina",
+      "quantidade": 25822840,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Argentina",
+      "quantidade": 36160548,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Argentina",
+      "quantidade": 37382581,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Argentina",
+      "quantidade": 38521731,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Argentina",
+      "quantidade": 52126581,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Argentina",
+      "quantidade": 58806736,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Argentina",
+      "quantidade": 55633562,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Argentina",
+      "quantidade": 49524694,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Argentina",
+      "quantidade": 53815956,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Argentina",
+      "quantidade": 48043201,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Argentina",
+      "quantidade": 45214862,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Argentina",
+      "quantidade": 51770842,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Argentina",
+      "quantidade": 52817642,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Argentina",
+      "quantidade": 54527380,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Argentina",
+      "quantidade": 66322932,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Argentina",
+      "quantidade": 79527959,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Argentina",
+      "quantidade": 87519642,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Argentina",
+      "quantidade": 83918138,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Argentina",
+      "quantidade": 93869579,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Armênia",
+      "quantidade": 13668,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Armênia",
+      "quantidade": 24336,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Austrália",
+      "quantidade": 446892,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Austrália",
+      "quantidade": 636740,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Austrália",
+      "quantidade": 446693,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Austrália",
+      "quantidade": 344316,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Austrália",
+      "quantidade": 561291,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Austrália",
+      "quantidade": 901226,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Austrália",
+      "quantidade": 1059677,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Austrália",
+      "quantidade": 1583361,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Austrália",
+      "quantidade": 1248671,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Austrália",
+      "quantidade": 998680,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Austrália",
+      "quantidade": 1864846,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Austrália",
+      "quantidade": 2811273,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Austrália",
+      "quantidade": 2474783,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Austrália",
+      "quantidade": 1703815,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Austrália",
+      "quantidade": 1008851,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Austrália",
+      "quantidade": 1261810,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Austrália",
+      "quantidade": 1537834,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Austrália",
+      "quantidade": 1246545,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Austrália",
+      "quantidade": 21664,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Austrália",
+      "quantidade": 1214643,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Austrália",
+      "quantidade": 792051,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Austrália",
+      "quantidade": 1383093,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Austrália",
+      "quantidade": 1590059,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Austrália",
+      "quantidade": 1568550,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Austrália",
+      "quantidade": 1437842,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Áustria",
+      "quantidade": 707,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Áustria",
+      "quantidade": 520,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Áustria",
+      "quantidade": 2081,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Áustria",
+      "quantidade": 7394,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Áustria",
+      "quantidade": 5560,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Áustria",
+      "quantidade": 386,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Áustria",
+      "quantidade": 3756,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Áustria",
+      "quantidade": 5878,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Áustria",
+      "quantidade": 7581,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Áustria",
+      "quantidade": 5016,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Áustria",
+      "quantidade": 3508,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Áustria",
+      "quantidade": 7650,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Áustria",
+      "quantidade": 7045,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Áustria",
+      "quantidade": 21658,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Áustria",
+      "quantidade": 5128,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Áustria",
+      "quantidade": 5612,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Áustria",
+      "quantidade": 6205,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Áustria",
+      "quantidade": 10594,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Áustria",
+      "quantidade": 59378,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Áustria",
+      "quantidade": 661104,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Áustria",
+      "quantidade": 24677,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Áustria",
+      "quantidade": 17321,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Áustria",
+      "quantidade": 8359,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Áustria",
+      "quantidade": 35247,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Áustria",
+      "quantidade": 73348,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Áustria",
+      "quantidade": 12073,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Áustria",
+      "quantidade": 30075,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Áustria",
+      "quantidade": 56227,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Áustria",
+      "quantidade": 85116,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Áustria",
+      "quantidade": 227204,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Áustria",
+      "quantidade": 32116,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Áustria",
+      "quantidade": 3891,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Áustria",
+      "quantidade": 7551,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Áustria",
+      "quantidade": 24629,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Áustria",
+      "quantidade": 1567866,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Áustria",
+      "quantidade": 128379,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Áustria",
+      "quantidade": 52348,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Áustria",
+      "quantidade": 141822,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Áustria",
+      "quantidade": 53974,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Áustria",
+      "quantidade": 145475,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Áustria",
+      "quantidade": 104965,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Bermudas",
+      "quantidade": 141,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Bermudas",
+      "quantidade": 4,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Bermudas",
+      "quantidade": 879,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Bélgica",
+      "quantidade": 30575,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Bélgica",
+      "quantidade": 1391,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Bélgica",
+      "quantidade": 95375,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Bélgica",
+      "quantidade": 40899,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Bélgica",
+      "quantidade": 23433,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Bélgica",
+      "quantidade": 1090,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Bélgica",
+      "quantidade": 45221,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Bélgica",
+      "quantidade": 1201,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Bélgica",
+      "quantidade": 30,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Bolívia",
+      "quantidade": 1348,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Bolívia",
+      "quantidade": 10920,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Bósnia-Herzegovina",
+      "quantidade": 902,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Bósnia-Herzegovina",
+      "quantidade": 9862,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Brasil",
+      "quantidade": 16212,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Brasil",
+      "quantidade": 20041,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Brasil",
+      "quantidade": 12527,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Brasil",
+      "quantidade": 19633,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Brasil",
+      "quantidade": 1769,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Brasil",
+      "quantidade": 232,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Brasil",
+      "quantidade": 1164,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Brasil",
+      "quantidade": 15016,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Brasil",
+      "quantidade": 5747,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Brasil",
+      "quantidade": 6011,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Brasil",
+      "quantidade": 12919,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Brasil",
+      "quantidade": 2127,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Brasil",
+      "quantidade": 260135,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Brasil",
+      "quantidade": 121806,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Brasil",
+      "quantidade": 246008,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Brasil",
+      "quantidade": 41213,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Brasil",
+      "quantidade": 39816,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Brasil",
+      "quantidade": 5,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Brasil",
+      "quantidade": 76894,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Brasil",
+      "quantidade": 147179,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Bulgária",
+      "quantidade": 94727,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Bulgária",
+      "quantidade": 2527,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Bulgária",
+      "quantidade": 21988,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Bulgária",
+      "quantidade": 46857,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Bulgária",
+      "quantidade": 51678,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Bulgária",
+      "quantidade": 55253,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Bulgária",
+      "quantidade": 68234,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Bulgária",
+      "quantidade": 17550,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Bulgária",
+      "quantidade": 9915,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Bulgária",
+      "quantidade": 58319,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Bulgária",
+      "quantidade": 105623,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Bulgária",
+      "quantidade": 43221,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Bulgária",
+      "quantidade": 95232,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Bulgária",
+      "quantidade": 62739,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Canada",
+      "quantidade": 30957,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Canada",
+      "quantidade": 35032,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Canada",
+      "quantidade": 25958,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Canada",
+      "quantidade": 17418,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Canada",
+      "quantidade": 11607,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Canada",
+      "quantidade": 1062,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Canada",
+      "quantidade": 18258,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Chile",
+      "quantidade": 101819,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Chile",
+      "quantidade": 52240,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Chile",
+      "quantidade": 95654,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Chile",
+      "quantidade": 212140,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Chile",
+      "quantidade": 429885,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Chile",
+      "quantidade": 764780,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Chile",
+      "quantidade": 1574474,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Chile",
+      "quantidade": 1962448,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Chile",
+      "quantidade": 3415769,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Chile",
+      "quantidade": 4315227,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Chile",
+      "quantidade": 3199365,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Chile",
+      "quantidade": 2344875,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Chile",
+      "quantidade": 1124272,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Chile",
+      "quantidade": 781217,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Chile",
+      "quantidade": 527176,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Chile",
+      "quantidade": 1195151,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Chile",
+      "quantidade": 1416109,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Chile",
+      "quantidade": 1008445,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Chile",
+      "quantidade": 1474473,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Chile",
+      "quantidade": 2675722,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Chile",
+      "quantidade": 2034195,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Chile",
+      "quantidade": 1869655,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Chile",
+      "quantidade": 1421889,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Chile",
+      "quantidade": 2655683,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Chile",
+      "quantidade": 3822138,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Chile",
+      "quantidade": 4165531,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Chile",
+      "quantidade": 3273873,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Chile",
+      "quantidade": 5453225,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Chile",
+      "quantidade": 6005098,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Chile",
+      "quantidade": 8756515,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Chile",
+      "quantidade": 12096840,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Chile",
+      "quantidade": 11122691,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Chile",
+      "quantidade": 11626770,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Chile",
+      "quantidade": 16120955,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Chile",
+      "quantidade": 22521618,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Chile",
+      "quantidade": 25645333,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Chile",
+      "quantidade": 36681244,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Chile",
+      "quantidade": 47680946,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Chile",
+      "quantidade": 50748373,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Chile",
+      "quantidade": 61380795,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Chile",
+      "quantidade": 72983389,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Chile",
+      "quantidade": 84952500,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Chile",
+      "quantidade": 93315735,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Chile",
+      "quantidade": 90281256,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Chile",
+      "quantidade": 113375484,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Chile",
+      "quantidade": 107684380,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Chile",
+      "quantidade": 123183079,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Chile",
+      "quantidade": 145628860,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Chile",
+      "quantidade": 144731210,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Chile",
+      "quantidade": 145471294,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Chile",
+      "quantidade": 176540499,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Chile",
+      "quantidade": 182568098,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Chile",
+      "quantidade": 184335335,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Chile",
+      "quantidade": 170146247,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Chile",
+      "quantidade": 199874777,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "China",
+      "quantidade": 496,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "China",
+      "quantidade": 4235,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "China",
+      "quantidade": 32738,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "China",
+      "quantidade": 213,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "China",
+      "quantidade": 613,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "China",
+      "quantidade": 472,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "China",
+      "quantidade": 2458,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Coreia do Sul, República",
+      "quantidade": 560,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Coreia do Sul, República",
+      "quantidade": 600,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Croácia",
+      "quantidade": 12388,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Croácia",
+      "quantidade": 16571,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Croácia",
+      "quantidade": 3779,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Croácia",
+      "quantidade": 2900,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Croácia",
+      "quantidade": 78954,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Croácia",
+      "quantidade": 35563,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Croácia",
+      "quantidade": 9160,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Cuba",
+      "quantidade": 261,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Emirados Árabes Unidos",
+      "quantidade": 1138,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Emirados Árabes Unidos",
+      "quantidade": 10093,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Emirados Árabes Unidos",
+      "quantidade": 35489,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Eslovênia",
+      "quantidade": 62602,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Eslovênia",
+      "quantidade": 1223,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Eslovênia",
+      "quantidade": 25307,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Eslovênia",
+      "quantidade": 23377,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Eslovênia",
+      "quantidade": 24190,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Eslovênia",
+      "quantidade": 46972,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Eslovênia",
+      "quantidade": 68521,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Eslovênia",
+      "quantidade": 101190,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Eslovênia",
+      "quantidade": 39771,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Eslovênia",
+      "quantidade": 172141,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Eslovênia",
+      "quantidade": 127726,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Eslovênia",
+      "quantidade": 124283,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Eslovênia",
+      "quantidade": 61546,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Eslováquia",
+      "quantidade": 3878,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Eslováquia",
+      "quantidade": 64828,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Eslováquia",
+      "quantidade": 17938,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Eslováquia",
+      "quantidade": 3160,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Espanha",
+      "quantidade": 90159,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Espanha",
+      "quantidade": 50191,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Espanha",
+      "quantidade": 116710,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Espanha",
+      "quantidade": 117135,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Espanha",
+      "quantidade": 215208,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Espanha",
+      "quantidade": 123102,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Espanha",
+      "quantidade": 41000,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Espanha",
+      "quantidade": 98238,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Espanha",
+      "quantidade": 75364,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Espanha",
+      "quantidade": 92476,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Espanha",
+      "quantidade": 109277,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Espanha",
+      "quantidade": 59696,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Espanha",
+      "quantidade": 104790,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Espanha",
+      "quantidade": 60450,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Espanha",
+      "quantidade": 8421,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Espanha",
+      "quantidade": 59833,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Espanha",
+      "quantidade": 61130,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Espanha",
+      "quantidade": 101606,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Espanha",
+      "quantidade": 108259,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Espanha",
+      "quantidade": 130171,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Espanha",
+      "quantidade": 503357,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Espanha",
+      "quantidade": 169698,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Espanha",
+      "quantidade": 144087,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Espanha",
+      "quantidade": 128664,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Espanha",
+      "quantidade": 362863,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Espanha",
+      "quantidade": 669208,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Espanha",
+      "quantidade": 939905,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Espanha",
+      "quantidade": 1142017,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Espanha",
+      "quantidade": 1328280,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Espanha",
+      "quantidade": 1906389,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Espanha",
+      "quantidade": 1699237,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Espanha",
+      "quantidade": 2360928,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Espanha",
+      "quantidade": 1503384,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Espanha",
+      "quantidade": 1721562,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Espanha",
+      "quantidade": 2092080,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Espanha",
+      "quantidade": 2504139,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Espanha",
+      "quantidade": 4288963,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Espanha",
+      "quantidade": 4506858,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Espanha",
+      "quantidade": 6036397,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Espanha",
+      "quantidade": 6224187,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Espanha",
+      "quantidade": 8698824,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Espanha",
+      "quantidade": 11175636,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Espanha",
+      "quantidade": 11724946,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Espanha",
+      "quantidade": 13570874,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Espanha",
+      "quantidade": 12797753,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Espanha",
+      "quantidade": 11396855,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Espanha",
+      "quantidade": 12221512,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Espanha",
+      "quantidade": 19834451,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Espanha",
+      "quantidade": 19353631,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Espanha",
+      "quantidade": 17111436,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Espanha",
+      "quantidade": 19802061,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Espanha",
+      "quantidade": 23795616,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Espanha",
+      "quantidade": 17187749,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Espanha",
+      "quantidade": 20097228,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Espanha",
+      "quantidade": 18867752,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Estados Unidos",
+      "quantidade": 190,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Estados Unidos",
+      "quantidade": 1337,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Estados Unidos",
+      "quantidade": 3761,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Estados Unidos",
+      "quantidade": 2575,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Estados Unidos",
+      "quantidade": 3275,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Estados Unidos",
+      "quantidade": 67752,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Estados Unidos",
+      "quantidade": 36360,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Estados Unidos",
+      "quantidade": 36720,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Estados Unidos",
+      "quantidade": 33443,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Estados Unidos",
+      "quantidade": 52983,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Estados Unidos",
+      "quantidade": 24570,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Estados Unidos",
+      "quantidade": 15805,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Estados Unidos",
+      "quantidade": 9218,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Estados Unidos",
+      "quantidade": 17965,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Estados Unidos",
+      "quantidade": 7880,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Estados Unidos",
+      "quantidade": 53390,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Estados Unidos",
+      "quantidade": 142509,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Estados Unidos",
+      "quantidade": 62170,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Estados Unidos",
+      "quantidade": 44552,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Estados Unidos",
+      "quantidade": 177471,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Estados Unidos",
+      "quantidade": 212884,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Estados Unidos",
+      "quantidade": 313916,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Estados Unidos",
+      "quantidade": 454266,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Estados Unidos",
+      "quantidade": 1122364,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Estados Unidos",
+      "quantidade": 885162,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Estados Unidos",
+      "quantidade": 992353,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Estados Unidos",
+      "quantidade": 899698,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Estados Unidos",
+      "quantidade": 1036201,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Estados Unidos",
+      "quantidade": 357913,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Estados Unidos",
+      "quantidade": 448844,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Estados Unidos",
+      "quantidade": 255328,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Estados Unidos",
+      "quantidade": 245198,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Estados Unidos",
+      "quantidade": 355478,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Estados Unidos",
+      "quantidade": 334204,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Estados Unidos",
+      "quantidade": 542331,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Estados Unidos",
+      "quantidade": 702825,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Estados Unidos",
+      "quantidade": 1344921,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Estados Unidos",
+      "quantidade": 1756901,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Estados Unidos",
+      "quantidade": 1995929,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Estados Unidos",
+      "quantidade": 2817086,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Estados Unidos",
+      "quantidade": 4171731,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Estados Unidos",
+      "quantidade": 3848755,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Estados Unidos",
+      "quantidade": 2924715,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Estados Unidos",
+      "quantidade": 4110641,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Estados Unidos",
+      "quantidade": 2584781,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Estados Unidos",
+      "quantidade": 2400830,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Estados Unidos",
+      "quantidade": 2119234,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Estados Unidos",
+      "quantidade": 2809649,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Estados Unidos",
+      "quantidade": 3023220,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Estados Unidos",
+      "quantidade": 1775713,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Estados Unidos",
+      "quantidade": 1919231,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "França",
+      "quantidade": 78135,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "França",
+      "quantidade": 72978,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "França",
+      "quantidade": 173001,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "França",
+      "quantidade": 435641,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "França",
+      "quantidade": 465175,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "França",
+      "quantidade": 278746,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "França",
+      "quantidade": 423696,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "França",
+      "quantidade": 476983,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "França",
+      "quantidade": 633098,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "França",
+      "quantidade": 795004,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "França",
+      "quantidade": 508338,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "França",
+      "quantidade": 479427,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "França",
+      "quantidade": 424752,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "França",
+      "quantidade": 329128,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "França",
+      "quantidade": 138156,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "França",
+      "quantidade": 735516,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "França",
+      "quantidade": 980754,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "França",
+      "quantidade": 653846,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "França",
+      "quantidade": 724549,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "França",
+      "quantidade": 1422973,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "França",
+      "quantidade": 1807082,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "França",
+      "quantidade": 1870305,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "França",
+      "quantidade": 888246,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "França",
+      "quantidade": 2132215,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "França",
+      "quantidade": 3935308,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "França",
+      "quantidade": 5026251,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "França",
+      "quantidade": 4370132,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "França",
+      "quantidade": 8771794,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "França",
+      "quantidade": 12027414,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "França",
+      "quantidade": 10122865,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "França",
+      "quantidade": 8467949,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "França",
+      "quantidade": 7968430,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "França",
+      "quantidade": 6060888,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "França",
+      "quantidade": 6093629,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "França",
+      "quantidade": 6201807,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "França",
+      "quantidade": 5783702,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "França",
+      "quantidade": 10507604,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "França",
+      "quantidade": 14721769,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "França",
+      "quantidade": 16275708,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "França",
+      "quantidade": 16893114,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "França",
+      "quantidade": 18778566,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "França",
+      "quantidade": 22917012,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "França",
+      "quantidade": 21636175,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "França",
+      "quantidade": 23336291,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "França",
+      "quantidade": 27480375,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "França",
+      "quantidade": 19353291,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "França",
+      "quantidade": 15940341,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "França",
+      "quantidade": 25280255,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "França",
+      "quantidade": 22688105,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "França",
+      "quantidade": 24299524,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "França",
+      "quantidade": 24894394,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "França",
+      "quantidade": 31428188,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "França",
+      "quantidade": 25955232,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "França",
+      "quantidade": 30421272,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "França",
+      "quantidade": 30175837,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Geórgia",
+      "quantidade": 134202,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Geórgia",
+      "quantidade": 20416,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Geórgia",
+      "quantidade": 41161,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Geórgia",
+      "quantidade": 42948,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Geórgia",
+      "quantidade": 32901,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Geórgia",
+      "quantidade": 26983,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Geórgia",
+      "quantidade": 29084,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Geórgia",
+      "quantidade": 15541,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Geórgia do Sul e Sandwich do Sul, Ilhas",
+      "quantidade": 2915,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Geórgia do Sul e Sandwich do Sul, Ilhas",
+      "quantidade": 2797,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Geórgia do Sul e Sandwich do Sul, Ilhas",
+      "quantidade": 4692,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Grécia",
+      "quantidade": 1450,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Grécia",
+      "quantidade": 137867,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Grécia",
+      "quantidade": 78819,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Grécia",
+      "quantidade": 190076,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Grécia",
+      "quantidade": 196361,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Grécia",
+      "quantidade": 414329,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Grécia",
+      "quantidade": 323206,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Grécia",
+      "quantidade": 71175,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Grécia",
+      "quantidade": 107195,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Grécia",
+      "quantidade": 190185,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Grécia",
+      "quantidade": 18637,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Grécia",
+      "quantidade": 139486,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Grécia",
+      "quantidade": 135185,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Grécia",
+      "quantidade": 70881,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Grécia",
+      "quantidade": 219292,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Grécia",
+      "quantidade": 55228,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Grécia",
+      "quantidade": 148515,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Grécia",
+      "quantidade": 147724,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Grécia",
+      "quantidade": 171795,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Hong Kong",
+      "quantidade": 2776,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Hungria",
+      "quantidade": 39649,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Hungria",
+      "quantidade": 26900,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Hungria",
+      "quantidade": 53615,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Hungria",
+      "quantidade": 54542,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Hungria",
+      "quantidade": 82552,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Hungria",
+      "quantidade": 90021,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Hungria",
+      "quantidade": 87626,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Hungria",
+      "quantidade": 160961,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Hungria",
+      "quantidade": 256240,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Hungria",
+      "quantidade": 168862,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Hungria",
+      "quantidade": 140198,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Hungria",
+      "quantidade": 114610,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Hungria",
+      "quantidade": 74688,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Hungria",
+      "quantidade": 58756,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Hungria",
+      "quantidade": 168353,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Hungria",
+      "quantidade": 113405,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Hungria",
+      "quantidade": 146500,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Hungria",
+      "quantidade": 25250,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Hungria",
+      "quantidade": 160816,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Hungria",
+      "quantidade": 160168,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Hungria",
+      "quantidade": 316481,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Hungria",
+      "quantidade": 238501,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Indonésia",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Indonésia",
+      "quantidade": 210,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Indonésia",
+      "quantidade": 1464,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Irlanda",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Irlanda",
+      "quantidade": 954,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Irlanda",
+      "quantidade": 1705,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Israel",
+      "quantidade": 27398,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Israel",
+      "quantidade": 41161,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Israel",
+      "quantidade": 36534,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Israel",
+      "quantidade": 93252,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Israel",
+      "quantidade": 68676,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Israel",
+      "quantidade": 47579,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Israel",
+      "quantidade": 97645,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Israel",
+      "quantidade": 40372,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Israel",
+      "quantidade": 55248,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Israel",
+      "quantidade": 44277,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Israel",
+      "quantidade": 120463,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Israel",
+      "quantidade": 182017,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Israel",
+      "quantidade": 182602,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Israel",
+      "quantidade": 224349,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Israel",
+      "quantidade": 298732,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Israel",
+      "quantidade": 82489,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Israel",
+      "quantidade": 259405,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Israel",
+      "quantidade": 183392,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Itália",
+      "quantidade": 32376,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Itália",
+      "quantidade": 56377,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Itália",
+      "quantidade": 96943,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Itália",
+      "quantidade": 186334,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Itália",
+      "quantidade": 278089,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Itália",
+      "quantidade": 244731,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Itália",
+      "quantidade": 276633,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Itália",
+      "quantidade": 349392,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Itália",
+      "quantidade": 268114,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Itália",
+      "quantidade": 562726,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Itália",
+      "quantidade": 283635,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Itália",
+      "quantidade": 222760,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Itália",
+      "quantidade": 322430,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Itália",
+      "quantidade": 308260,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Itália",
+      "quantidade": 141201,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Itália",
+      "quantidade": 385365,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Itália",
+      "quantidade": 601494,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Itália",
+      "quantidade": 467597,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Itália",
+      "quantidade": 703116,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Itália",
+      "quantidade": 1341632,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Itália",
+      "quantidade": 1284638,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Itália",
+      "quantidade": 1331248,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Itália",
+      "quantidade": 1307032,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Itália",
+      "quantidade": 2404136,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Itália",
+      "quantidade": 5058009,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Itália",
+      "quantidade": 7542440,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Itália",
+      "quantidade": 8178592,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Itália",
+      "quantidade": 11182645,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Itália",
+      "quantidade": 12837955,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Itália",
+      "quantidade": 14604418,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Itália",
+      "quantidade": 16364713,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Itália",
+      "quantidade": 15592191,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Itália",
+      "quantidade": 11408242,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Itália",
+      "quantidade": 10545425,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Itália",
+      "quantidade": 12223247,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Itália",
+      "quantidade": 11300501,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Itália",
+      "quantidade": 17018760,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Itália",
+      "quantidade": 22023175,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Itália",
+      "quantidade": 24378627,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Itália",
+      "quantidade": 23079424,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Itália",
+      "quantidade": 28683242,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Itália",
+      "quantidade": 35481781,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Itália",
+      "quantidade": 30750897,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Itália",
+      "quantidade": 30799292,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Itália",
+      "quantidade": 31697736,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Itália",
+      "quantidade": 25846195,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Itália",
+      "quantidade": 22216811,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Itália",
+      "quantidade": 33707111,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Itália",
+      "quantidade": 34857594,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Itália",
+      "quantidade": 33355982,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Itália",
+      "quantidade": 32477890,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Itália",
+      "quantidade": 39852162,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Itália",
+      "quantidade": 33330465,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Itália",
+      "quantidade": 34760596,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Itália",
+      "quantidade": 39485660,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Japão",
+      "quantidade": 1429,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Japão",
+      "quantidade": 3427,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Japão",
+      "quantidade": 4363,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Iugoslávia",
+      "quantidade": 326,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Iugoslávia",
+      "quantidade": 375,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Iugoslávia",
+      "quantidade": 1137,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Iugoslávia",
+      "quantidade": 813,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Iugoslávia",
+      "quantidade": 1804,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Iugoslávia",
+      "quantidade": 5128,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Iugoslávia",
+      "quantidade": 1870,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Iugoslávia",
+      "quantidade": 1570,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Iugoslávia",
+      "quantidade": 1630,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Iugoslávia",
+      "quantidade": 2050,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Iugoslávia",
+      "quantidade": 1650,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Iugoslávia",
+      "quantidade": 11619,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Iugoslávia",
+      "quantidade": 14390,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Iugoslávia",
+      "quantidade": 17700,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Iugoslávia",
+      "quantidade": 19150,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Iugoslávia",
+      "quantidade": 44100,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Iugoslávia",
+      "quantidade": 31825,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Iugoslávia",
+      "quantidade": 31968,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Iugoslávia",
+      "quantidade": 10500,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Iugoslávia",
+      "quantidade": 36000,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Iugoslávia",
+      "quantidade": 81408,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Líbano",
+      "quantidade": 8013,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Líbano",
+      "quantidade": 2726,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Líbano",
+      "quantidade": 12774,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Líbano",
+      "quantidade": 10605,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Líbano",
+      "quantidade": 25265,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Líbano",
+      "quantidade": 47054,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Líbano",
+      "quantidade": 34971,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Líbano",
+      "quantidade": 123283,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Líbano",
+      "quantidade": 137954,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Líbano",
+      "quantidade": 47826,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Líbano",
+      "quantidade": 75810,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Líbano",
+      "quantidade": 270145,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Líbano",
+      "quantidade": 56196,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Líbano",
+      "quantidade": 71374,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Líbano",
+      "quantidade": 93480,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Líbano",
+      "quantidade": 150044,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Líbano",
+      "quantidade": 167358,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Líbano",
+      "quantidade": 45908,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Líbano",
+      "quantidade": 78872,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Líbano",
+      "quantidade": 182548,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Líbano",
+      "quantidade": 106610,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Líbano",
+      "quantidade": 45866,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Luxemburgo",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Luxemburgo",
+      "quantidade": 42,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Luxemburgo",
+      "quantidade": 59,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Macedônia",
+      "quantidade": 497,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Macedônia",
+      "quantidade": 874,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Macedônia",
+      "quantidade": 17172,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Marrocos",
+      "quantidade": 3851,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Marrocos",
+      "quantidade": 15082,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Marrocos",
+      "quantidade": 16816,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Marrocos",
+      "quantidade": 8326,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Marrocos",
+      "quantidade": 6958,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Marrocos",
+      "quantidade": 46497,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Marrocos",
+      "quantidade": 2349,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "México",
+      "quantidade": 63663,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "México",
+      "quantidade": 804,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "México",
+      "quantidade": 3927,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "México",
+      "quantidade": 181,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "México",
+      "quantidade": 19,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Moldávia",
+      "quantidade": 8965,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Moldávia",
+      "quantidade": 66480,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Moldávia",
+      "quantidade": 70282,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Moldávia",
+      "quantidade": 138741,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Moldávia",
+      "quantidade": 158610,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Montenegro",
+      "quantidade": 5440,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Noruega",
+      "quantidade": 253,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Noruega",
+      "quantidade": 27,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Nova Zelândia",
+      "quantidade": 153081,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Nova Zelândia",
+      "quantidade": 107273,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Nova Zelândia",
+      "quantidade": 224441,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Nova Zelândia",
+      "quantidade": 254987,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Nova Zelândia",
+      "quantidade": 417276,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Nova Zelândia",
+      "quantidade": 536625,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Nova Zelândia",
+      "quantidade": 302244,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Nova Zelândia",
+      "quantidade": 947043,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Nova Zelândia",
+      "quantidade": 1267863,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Nova Zelândia",
+      "quantidade": 790355,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Nova Zelândia",
+      "quantidade": 840521,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Nova Zelândia",
+      "quantidade": 843533,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Nova Zelândia",
+      "quantidade": 950751,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Nova Zelândia",
+      "quantidade": 361030,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Nova Zelândia",
+      "quantidade": 248412,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Nova Zelândia",
+      "quantidade": 686193,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Nova Zelândia",
+      "quantidade": 776830,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Nova Zelândia",
+      "quantidade": 89763,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Nova Zelândia",
+      "quantidade": 137547,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Nova Zelândia",
+      "quantidade": 403597,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Nova Zelândia",
+      "quantidade": 254138,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Nova Zelândia",
+      "quantidade": 279820,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 8719,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 5297,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 22990,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 354,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Países Baixos (Holanda)",
+      "quantidade": 8649,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Panamá",
+      "quantidade": 96,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Paraguai",
+      "quantidade": 21,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Peru",
+      "quantidade": 252,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Peru",
+      "quantidade": 7906,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Peru",
+      "quantidade": 653,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Peru",
+      "quantidade": 84084,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Peru",
+      "quantidade": 58862,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Porto Rico",
+      "quantidade": 14781,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Porto Rico",
+      "quantidade": 404,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Porto Rico",
+      "quantidade": 115,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Porto Rico",
+      "quantidade": 1090,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Porto Rico",
+      "quantidade": 4481,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Portugal",
+      "quantidade": 531480,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Portugal",
+      "quantidade": 620790,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Portugal",
+      "quantidade": 1226232,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Portugal",
+      "quantidade": 2238637,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Portugal",
+      "quantidade": 1917710,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Portugal",
+      "quantidade": 1838430,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Portugal",
+      "quantidade": 1872573,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Portugal",
+      "quantidade": 1847604,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Portugal",
+      "quantidade": 2706030,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Portugal",
+      "quantidade": 3493450,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Portugal",
+      "quantidade": 2146952,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Portugal",
+      "quantidade": 1271300,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Portugal",
+      "quantidade": 1258983,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Portugal",
+      "quantidade": 1338370,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Portugal",
+      "quantidade": 531515,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Portugal",
+      "quantidade": 1406897,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Portugal",
+      "quantidade": 2258643,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Portugal",
+      "quantidade": 1610041,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Portugal",
+      "quantidade": 1884873,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Portugal",
+      "quantidade": 2924935,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Portugal",
+      "quantidade": 2793037,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Portugal",
+      "quantidade": 2525520,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Portugal",
+      "quantidade": 1792170,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Portugal",
+      "quantidade": 2873315,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Portugal",
+      "quantidade": 4471214,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Portugal",
+      "quantidade": 10703599,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Portugal",
+      "quantidade": 9226840,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Portugal",
+      "quantidade": 12467340,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Portugal",
+      "quantidade": 12314487,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Portugal",
+      "quantidade": 12406498,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Portugal",
+      "quantidade": 13191073,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Portugal",
+      "quantidade": 13988909,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Portugal",
+      "quantidade": 8596328,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Portugal",
+      "quantidade": 9649346,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Portugal",
+      "quantidade": 12084110,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Portugal",
+      "quantidade": 15007625,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Portugal",
+      "quantidade": 19063151,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Portugal",
+      "quantidade": 23945522,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Portugal",
+      "quantidade": 23826443,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Portugal",
+      "quantidade": 23688318,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Portugal",
+      "quantidade": 29299792,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Portugal",
+      "quantidade": 35247223,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Portugal",
+      "quantidade": 36190898,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Portugal",
+      "quantidade": 35729522,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Portugal",
+      "quantidade": 37071142,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Portugal",
+      "quantidade": 32547365,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Portugal",
+      "quantidade": 29495190,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Portugal",
+      "quantidade": 45032247,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Portugal",
+      "quantidade": 53237413,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Portugal",
+      "quantidade": 51444189,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Portugal",
+      "quantidade": 66353572,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Portugal",
+      "quantidade": 75668823,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Portugal",
+      "quantidade": 64795326,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Portugal",
+      "quantidade": 71970948,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Portugal",
+      "quantidade": 81087293,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Reino Unido",
+      "quantidade": 56268,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Reino Unido",
+      "quantidade": 67728,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Reino Unido",
+      "quantidade": 10257,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Reino Unido",
+      "quantidade": 53375,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Reino Unido",
+      "quantidade": 22292,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Reino Unido",
+      "quantidade": 6021,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Reino Unido",
+      "quantidade": 26466,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Reino Unido",
+      "quantidade": 2789,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Reino Unido",
+      "quantidade": 9410,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Reino Unido",
+      "quantidade": 1352,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Reino Unido",
+      "quantidade": 255,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Reino Unido",
+      "quantidade": 1033,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Reino Unido",
+      "quantidade": 51034,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Reino Unido",
+      "quantidade": 46623,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Reino Unido",
+      "quantidade": 22935,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Reino Unido",
+      "quantidade": 9357,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Reino Unido",
+      "quantidade": 19595,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Reino Unido",
+      "quantidade": 32757,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Reino Unido",
+      "quantidade": 13781,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Republica Dominicana",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Republica Dominicana",
+      "quantidade": 13,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Romênia",
+      "quantidade": 85321,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Romênia",
+      "quantidade": 5629,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Romênia",
+      "quantidade": 7925,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Romênia",
+      "quantidade": 52150,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Romênia",
+      "quantidade": 9695,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Romênia",
+      "quantidade": 6706,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Romênia",
+      "quantidade": 70269,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Romênia",
+      "quantidade": 99562,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Romênia",
+      "quantidade": 99616,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Romênia",
+      "quantidade": 98835,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Romênia",
+      "quantidade": 55142,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Rússia",
+      "quantidade": 43,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Rússia",
+      "quantidade": 66160,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Rússia",
+      "quantidade": 64905,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "San Marino",
+      "quantidade": 2237,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Sérvia",
+      "quantidade": 8302,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Sérvia",
+      "quantidade": 4140,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Síria",
+      "quantidade": 269,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Síria",
+      "quantidade": 409,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Síria",
+      "quantidade": 1280,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Síria",
+      "quantidade": 5187,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Suazilândia",
+      "quantidade": 6968,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Suíça",
+      "quantidade": 3522,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Suíça",
+      "quantidade": 5917,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Suíça",
+      "quantidade": 9430,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Suíça",
+      "quantidade": 6018,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Suíça",
+      "quantidade": 5359,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Suíça",
+      "quantidade": 13129,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Suíça",
+      "quantidade": 8010,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Suíça",
+      "quantidade": 6284,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Suíça",
+      "quantidade": 245,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Suíça",
+      "quantidade": 2873,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Suíça",
+      "quantidade": 7647,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Suíça",
+      "quantidade": 63619,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Suíça",
+      "quantidade": 5848,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Suíça",
+      "quantidade": 157,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Suíça",
+      "quantidade": 101111,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Suíça",
+      "quantidade": 3939,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Tcheca, República",
+      "quantidade": 5528,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Tcheca, República",
+      "quantidade": 12044,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Tunísia",
+      "quantidade": 37492,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Tunísia",
+      "quantidade": 42918,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Tunísia",
+      "quantidade": 20892,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Turquia",
+      "quantidade": 109741,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Turquia",
+      "quantidade": 1245,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Turquia",
+      "quantidade": 55039,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Turquia",
+      "quantidade": 38817,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Turquia",
+      "quantidade": 4997,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Ucrânia",
+      "quantidade": 9679,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Ucrânia",
+      "quantidade": 931,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Ucrânia",
+      "quantidade": 3074,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Uruguai",
+      "quantidade": 1871,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Uruguai",
+      "quantidade": 636,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Uruguai",
+      "quantidade": 2741,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Uruguai",
+      "quantidade": 33975,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Uruguai",
+      "quantidade": 33900,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Uruguai",
+      "quantidade": 22900,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Uruguai",
+      "quantidade": 16800,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Uruguai",
+      "quantidade": 21795,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Uruguai",
+      "quantidade": 69221,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Uruguai",
+      "quantidade": 72528,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Uruguai",
+      "quantidade": 73695,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Uruguai",
+      "quantidade": 164299,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Uruguai",
+      "quantidade": 209952,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Uruguai",
+      "quantidade": 525654,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Uruguai",
+      "quantidade": 2756398,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Uruguai",
+      "quantidade": 3616134,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Uruguai",
+      "quantidade": 3122694,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Uruguai",
+      "quantidade": 2082552,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2003,
+      "pais": "Uruguai",
+      "quantidade": 1630471,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2004,
+      "pais": "Uruguai",
+      "quantidade": 1089054,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Uruguai",
+      "quantidade": 924066,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2006,
+      "pais": "Uruguai",
+      "quantidade": 1439538,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2007,
+      "pais": "Uruguai",
+      "quantidade": 3131899,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2008,
+      "pais": "Uruguai",
+      "quantidade": 2089539,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2009,
+      "pais": "Uruguai",
+      "quantidade": 1953390,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2010,
+      "pais": "Uruguai",
+      "quantidade": 3175051,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2011,
+      "pais": "Uruguai",
+      "quantidade": 3481552,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2012,
+      "pais": "Uruguai",
+      "quantidade": 3735892,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2013,
+      "pais": "Uruguai",
+      "quantidade": 3740613,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2014,
+      "pais": "Uruguai",
+      "quantidade": 3782282,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2015,
+      "pais": "Uruguai",
+      "quantidade": 4069100,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2016,
+      "pais": "Uruguai",
+      "quantidade": 5099162,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2017,
+      "pais": "Uruguai",
+      "quantidade": 7751966,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2018,
+      "pais": "Uruguai",
+      "quantidade": 8467846,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2019,
+      "pais": "Uruguai",
+      "quantidade": 7938059,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2020,
+      "pais": "Uruguai",
+      "quantidade": 10146829,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2021,
+      "pais": "Uruguai",
+      "quantidade": 10063341,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2022,
+      "pais": "Uruguai",
+      "quantidade": 9867675,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2023,
+      "pais": "Uruguai",
+      "quantidade": 9276001,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2024,
+      "pais": "Uruguai",
+      "quantidade": 9827906,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Não consta na tabela",
+      "quantidade": 148879,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Não declarados",
+      "quantidade": 26664,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1970,
+      "pais": "Outros",
+      "quantidade": 4255,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1971,
+      "pais": "Outros",
+      "quantidade": 42028,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1972,
+      "pais": "Outros",
+      "quantidade": 25032,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1973,
+      "pais": "Outros",
+      "quantidade": 5775,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1974,
+      "pais": "Outros",
+      "quantidade": 28163,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1975,
+      "pais": "Outros",
+      "quantidade": 13989,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1976,
+      "pais": "Outros",
+      "quantidade": 7884,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1977,
+      "pais": "Outros",
+      "quantidade": 642,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1978,
+      "pais": "Outros",
+      "quantidade": 1210,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1979,
+      "pais": "Outros",
+      "quantidade": 2614,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1980,
+      "pais": "Outros",
+      "quantidade": 10543,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1981,
+      "pais": "Outros",
+      "quantidade": 17869,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1982,
+      "pais": "Outros",
+      "quantidade": 30505,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1983,
+      "pais": "Outros",
+      "quantidade": 5862,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1984,
+      "pais": "Outros",
+      "quantidade": 34499,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1985,
+      "pais": "Outros",
+      "quantidade": 12812,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1986,
+      "pais": "Outros",
+      "quantidade": 18768,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1987,
+      "pais": "Outros",
+      "quantidade": 40,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1988,
+      "pais": "Outros",
+      "quantidade": 450,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1989,
+      "pais": "Outros",
+      "quantidade": 21458,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1990,
+      "pais": "Outros",
+      "quantidade": 145083,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1991,
+      "pais": "Outros",
+      "quantidade": 161151,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1992,
+      "pais": "Outros",
+      "quantidade": 59352,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1993,
+      "pais": "Outros",
+      "quantidade": 412893,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1994,
+      "pais": "Outros",
+      "quantidade": 289230,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1995,
+      "pais": "Outros",
+      "quantidade": 393140,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1996,
+      "pais": "Outros",
+      "quantidade": 295772,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1997,
+      "pais": "Outros",
+      "quantidade": 548733,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1998,
+      "pais": "Outros",
+      "quantidade": 480461,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 1999,
+      "pais": "Outros",
+      "quantidade": 230829,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2000,
+      "pais": "Outros",
+      "quantidade": 295205,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2001,
+      "pais": "Outros",
+      "quantidade": 201927,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2002,
+      "pais": "Outros",
+      "quantidade": 256700,
+      "unidade": "kg",
+      "tipo": "importacao"
+    },
+    {
+      "ano": 2005,
+      "pais": "Outros",
+      "quantidade": 63967,
+      "unidade": "kg",
+      "tipo": "importacao"
+    }
+  ],
+  "timestamp": "2025-05-30T16:44:14.112201",
+  "source": "embrapa_scraping"
+}
