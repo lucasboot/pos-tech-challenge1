@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "run.py",
-      "use": "@vercel/python"
+  "functions": {
+    "run.py": {
+      "runtime": "python3.9",
+      "maxDuration": 30
     }
-  ],
+  },
   "routes": [
     {
       "src": "/(.*)",
@@ -15,10 +15,5 @@
   "env": {
     "FLASK_ENV": "production",
     "VERCEL": "1"
-  },
-  "functions": {
-    "run.py": {
-      "maxDuration": 30
-    }
   }
 } 
