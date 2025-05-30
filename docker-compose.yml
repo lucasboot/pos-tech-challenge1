@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+      - SECRET_KEY=dev-secret-key-change-in-production
+      - JWT_SECRET_KEY=dev-jwt-secret-change-in-production
+      - EMBRAPA_BASE_URL=http://vitibrasil.cnpuv.embrapa.br
+      - DEFAULT_PAGE_SIZE=50
+      - MAX_PAGE_SIZE=1000
+    volumes:
+      - ./data/cache:/app/data/cache
+      - ./app:/app/app
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/api/v1/producao"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s 
