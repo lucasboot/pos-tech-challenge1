@@ -2,6 +2,7 @@ from flask import Flask
 from flask_cors import CORS
 from flasgger import Swagger
 from app.config import Config
+import os
 
 def create_app():
     app = Flask(__name__)
@@ -9,6 +10,9 @@ def create_app():
     
     # Configurar CORS
     CORS(app)
+    
+    # Detectar se está rodando na Vercel
+    is_vercel = os.environ.get('VERCEL') == '1'
     
     # Configurar Swagger
     swagger_config = {
@@ -26,6 +30,16 @@ def create_app():
         "specs_route": "/apidocs/"
     }
     
+    # Configurar host dinamicamente
+    if is_vercel:
+        host = os.environ.get('VERCEL_URL', 'localhost:5000')
+        if not host.startswith('http'):
+            host = f"https://{host}"
+        schemes = ["https"]
+    else:
+        host = "localhost:5000"
+        schemes = ["http", "https"]
+    
     swagger_template = {
         "swagger": "2.0",
         "info": {
@@ -33,14 +47,18 @@ def create_app():
             "description": "API para consulta de dados de vitivinicultura da Embrapa",
             "version": "1.0.0"
         },
-        "host": "localhost:5000",
-        "basePath": "/api/v1",
-        "schemes": ["http", "https"]
+        "host": host.replace('https://', '').replace('http://', ''),
+        "basePath": "/",
+        "schemes": schemes
     }
     
     Swagger(app, config=swagger_config, template=swagger_template)
     
-    # Registrar blueprints
+    # Registrar blueprint home primeiro (para rota raiz)
+    from app.routes.home_routes import home_bp
+    app.register_blueprint(home_bp)
+    
+    # Registrar outros blueprints
     from app.routes.producao_routes import producao_bp
     from app.routes.processamento_routes import processamento_bp
     from app.routes.comercializacao_routes import comercializacao_bp
