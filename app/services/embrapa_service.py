@@ -83,12 +83,10 @@ class EmbrapaService:
             response = requests.get(csv_url, timeout=30)
             response.raise_for_status()
             
-            # Verificar se é realmente um CSV (não uma página de erro)
             if response.headers.get('content-type', '').startswith('text/html'):
                 logger.warning(f"Arquivo CSV não encontrado para {endpoint}")
                 return None
             
-            # Parse do CSV
             csv_content = response.content.decode('utf-8')
             data = self.parse_csv_data(csv_content, endpoint)
             
@@ -101,7 +99,6 @@ class EmbrapaService:
     def parse_csv_data(self, csv_content, endpoint):
         """Parse dos dados CSV baseado no endpoint"""
         try:
-            # Importação e exportação usam TAB como separador
             if endpoint in ['importacao', 'exportacao']:
                 csv_reader = csv.DictReader(io.StringIO(csv_content), delimiter='\t')
             else:
@@ -132,11 +129,9 @@ class EmbrapaService:
         data = []
         produto = row.get('produto', '').strip()
         
-        # Pular linhas de controle ou vazias
         if not produto or produto.upper() in ['PRODUTO', 'CONTROL']:
             return data
         
-        # Iterar pelos anos (colunas de 1970 a 2023)
         for year in range(1970, 2024):
             year_str = str(year)
             if year_str in row:
@@ -253,14 +248,11 @@ class EmbrapaService:
         
         if not pais or pais.upper() in ['PAÍS', 'CONTROL']:
             return data
-        
-        # Os arquivos de importação/exportação têm estrutura diferente
-        # Cada ano aparece duas vezes (quantidade e valor)
+
         for year in range(1970, 2025):
             year_str = str(year)
             if year_str in row:
                 try:
-                    # Primeira coluna do ano é quantidade (kg)
                     quantidade_str = row[year_str].strip()
                     if quantidade_str and quantidade_str not in ['', '0', 'nd', '*']:
                         quantidade_str = quantidade_str.replace(',', '.')
@@ -281,11 +273,9 @@ class EmbrapaService:
     def scrape_data(self, endpoint, params=None):
         """Faz scraping dos dados da Embrapa"""
         try:
-            # Primeiro tenta baixar dados CSV
             data = self.download_csv_data(endpoint)
             
             if data:
-                # Salvar no cache
                 self.save_to_cache(endpoint, data)
                 return data
             else:
@@ -308,7 +298,6 @@ class EmbrapaService:
             if cached:
                 return cached['data']
         
-        # Se ainda não temos dados, usar mock como fallback final
         if data is None:
             logger.info(f"Usando dados mock para {endpoint}")
             mock_data = {

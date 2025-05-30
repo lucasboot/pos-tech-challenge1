@@ -8,7 +8,7 @@ class Config:
     JWT_SECRET_KEY = os.environ.get('JWT_SECRET_KEY') or 'jwt-secret-key-change-in-production'
     JWT_ACCESS_TOKEN_EXPIRES = int(os.environ.get('JWT_ACCESS_TOKEN_EXPIRES', 3600))
     
-    # URLs da Embrapa (podem ser atualizadas conforme necessário)
+    # URLs da Embrapa 
     EMBRAPA_BASE_URL = os.environ.get('EMBRAPA_BASE_URL', 'http://vitibrasil.cnpuv.embrapa.br')
     
     # Cache settings

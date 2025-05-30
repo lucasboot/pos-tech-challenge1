@@ -39,11 +39,10 @@ def token_required(f):
     def decorated(*args, **kwargs):
         token = None
         
-        # Verificar se o token está no header Authorization
         if 'Authorization' in request.headers:
             auth_header = request.headers['Authorization']
             try:
-                token = auth_header.split(" ")[1]  # Bearer <token>
+                token = auth_header.split(" ")[1]
             except IndexError:
                 return jsonify({'message': 'Token inválido'}), 401
         
@@ -54,7 +53,6 @@ def token_required(f):
         if payload is None:
             return jsonify({'message': 'Token inválido ou expirado'}), 401
         
-        # Adicionar informações do usuário ao contexto da requisição
         request.current_user = payload
         
         return f(*args, **kwargs)

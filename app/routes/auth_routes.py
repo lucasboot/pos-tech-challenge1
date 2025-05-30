@@ -51,7 +51,7 @@ def login():
     username = data.get('username')
     password = data.get('password')
     
-    # Validação simples (em produção, usar hash de senha e banco de dados)
+    # Validação simples, evoluir para usar hash de senha e banco de dados
     if username == 'admin' and password == 'password123':
         token = generate_token(user_id=username)
         return jsonify({

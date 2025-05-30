@@ -6,11 +6,9 @@ def get_pagination_params():
     page = request.args.get('page', 1, type=int)
     per_page = request.args.get('per_page', current_app.config['DEFAULT_PAGE_SIZE'], type=int)
     
-    # Limitar o tamanho máximo da página
     if per_page > current_app.config['MAX_PAGE_SIZE']:
         per_page = current_app.config['MAX_PAGE_SIZE']
     
-    # Garantir valores mínimos
     page = max(1, page)
     per_page = max(1, per_page)
     

@@ -89,17 +89,14 @@ def get_producao():
         page, per_page = get_pagination_params()
         filters = get_filter_params()
         
-        # Obter dados da Embrapa
         data = service.get_data('producao')
         
-        # Aplicar filtros
         if filters.get('ano'):
             data = [item for item in data if item.get('ano') == filters['ano']]
         
         if filters.get('produto'):
             data = [item for item in data if filters['produto'].lower() in item.get('produto', '').lower()]
         
-        # Paginar dados
         result = paginate_data(data, page, per_page)
         
         return jsonify(result), 200
