@@ -77,13 +77,32 @@ A API estará disponível em `http://localhost:5000`
 
 ## 🐳 Executar com Docker
 
-### 1. Construir a Imagem
+### Usando Docker Compose (Recomendado)
+
 ```bash
-docker build -t embrapa-api .
+# Primeira execução - construir e executar
+docker-compose up --build
+
+# Parar os serviços
+docker-compose down
+
+# Executar novamente (sem rebuild)
+docker-compose up
+
+# Executar em background
+docker-compose up -d
+
+# Ver logs
+docker-compose logs -f
 ```
 
-### 2. Executar o Container
+### Usando Docker Tradicional (Alternativo)
+
 ```bash
+# 1. Construir a Imagem
+docker build -t embrapa-api .
+
+# 2. Executar o Container
 docker run -p 5000:5000 embrapa-api
 ```
 
