@@ -210,7 +210,7 @@ curl -H "Authorization: Bearer SEU_TOKEN" \
   http://localhost:5000/api/v1/producao
 ```
 
-## 🏗️ Arquitetura do Projeto
+## Estrutura de pastas do Projeto
 
 ```
 pos-tech-challenge1/
@@ -236,6 +236,10 @@ pos-tech-challenge1/
 ├── run.py                  # Ponto de entrada
 └── README.md               # Este arquivo
 ```
+
+## 🏗️ Arquitetura do Projeto
+
+![mermaid-diagram-2025-05-31-195956](https://github.com/user-attachments/assets/3202a63e-af05-4daa-bd1d-2d84f406103b)
 
 ## 🔄 Sistema de Dados e Cache
 
